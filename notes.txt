@@ -1,0 +1,112 @@
+Mega Man X2 Français
+
+======================
+= Textes dans la ROM =
+======================
+0x13d800 = Table de pointers vers le texte
+0x13d87a = $27D87A (Texte d'introduction)
+0x13da67 = $27DA67 (Got Weapon Text)
+
+0x30df0 = $068DF0 (Capcom Copyright, Main Menu, This game cannot be played on PAL, options menu)
+
+0x31567 = $06:9567 (Ending screen)
+
+Y'a plein de places avant pour déplacer la table de pointeurs et le data mais faut modifier le code qui lit le texte du jeu
+
+$82 = End of Data
+
+mmmx2_text_extractor mmx2_original.sfc 0x13d800 59
+
+15C300 - 15D2FF
+
+=================
+= Text Commands =
+=================
+$80-$8F = text commands
+
+$80 = $00:e7fe
+$81 = $00:e81b
+$82 = $00:e843
+$83 = $00:e851
+$84 = $00:e862
+$85 = $00:e868
+$86 = $00:e8bc
+
+$87 = $00:e949
+$88 = $00:e96b
+$89 = $00:e973 (Read the next two bytes)
+$8A = $00:e992
+$8B = $00:e99b
+$8C = $00:e9a7
+
+$c0 = another set of commands
+
+================
+= Text Routine =
+================
+00e6e3 bne $e6ec
+00e6e5 stz $bd
+00e6e7 stz $bf
+00e6e9 stz $1f4c
+00e6ec sep #$20
+00e6ee stz $1f50
+00e6f1 stz $1f51
+00e6f4 inc $6f
+00e6f6 ldy #$00
+00e6f8 lda $1f47
+00e6fb sta $1f4a
+00e6fe jsr $e9ad
+00e701 bit #$80
+00e703 beq $e708
+00e705 jmp $e7c6
+
+00e7c6 bit #$40
+00e7c8 bne $e7eb
+00e7ca and #$0f
+00e7cc asl a
+00e7cd tax
+00e7ce jmp ($e7d1,x)
+
+; ===============
+; = Command $80 =
+; ===============
+00e7fe rep #$21
+00e800 lda $6a
+00e802 adc #$0020
+00e805 and #$07ff
+00e808 ora #$0800
+00e80b sta $6a
+00e80d stz $6c
+00e80f tya
+00e810 adc $68
+00e812 sta $68
+00e814 sep #$20
+00e816 ldy #$00
+00e818 jmp $e6fe
+
+; ===============
+; = Command $89 =
+; ===============
+00e973 jsr $e9ad
+00e976 sta $6a
+00e978 jsr $e9ad
+00e97b sta $6b
+00e97d rep #$20
+00e97f lda $bf
+00e981 and #$f8
+00e984 asl a
+00e985 asl a
+00e986 clc
+00e987 adc $6a
+00e989 sta $6
+00e98b stz $6c
+00e98d sep #$20
+00e98f jmp $e6fe
+
+; Read single byte of the text
+00e9ad pea $0627
+00e9b0 plb
+00e9b1 lda ($68),y
+00e9b3 iny
+00e9b4 plb
+00e9b5 rts
