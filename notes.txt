@@ -19,6 +19,8 @@ mmmx2_text_extractor mmx2_original.sfc 0x13d800 59
 
 15C300 - 15D2FF
 
+00e6d6 lda $27d800,x [27d800] A:0100 X:0000 Y:0007 S:01ff D:0000 DB:06 nvmXdIZc V: 57 H:173 F:35
+
 =================
 = Text Commands =
 =================
@@ -110,3 +112,25 @@ $c0 = another set of commands
 00e9b3 iny
 00e9b4 plb
 00e9b5 rts
+
+=======================
+= Title screen format =
+=======================
+
+Start of tilemap update block:
+
+09 20 8A 0B
+<Payload length> <High byte of the tile byte> <Address in tilemap (16-bit)>
+
+If X = 10 and Y = 20, then the address in tilemap is found with
+((Y&0x1F)<<5) + (X&0xF) + (0) + ((X&0x20)<<5) + 0x800
+
+Terminator of whole tilemap update block is 00
+
+tilemap update is pointed!
+
+tilemap update pointer table start at $068C6F and end at $068D1B (temp)
+
+86 entries (temp)
+
+117 entries

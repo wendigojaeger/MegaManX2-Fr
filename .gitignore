@@ -22,3 +22,9 @@ Tools/MegaManX2TextExtractor/\.vs/MegaManX2TextExtractor/v14/
 Tools/MegaManX2TextExtractor/obj/Debug/
 
 /run.bat
+*.zip
+*.bak
+*.sym
+*.bst
+*.png
+/Tools/MegaManX2TextExtractor/

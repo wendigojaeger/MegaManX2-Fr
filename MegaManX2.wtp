@@ -1,0 +1,238 @@
+{
+  "$type": "WendigoJaeger.TranslationTool.Data.ProjectSettings, LibWendigoJaegerTranslationTool",
+  "Project": {
+    "$type": "WendigoJaeger.TranslationTool.Data.Project, LibWendigoJaegerTranslationTool",
+    "Name": "Mega Man X2",
+    "InputFile": "mmx2_original.sfc",
+    "System": {
+      "$type": "WendigoJaeger.TranslationTool.Systems.SNESLoRomSlowRom, LibWendigoJaegerTranslationTool"
+    },
+    "OutputGenerator": {
+      "$type": "WendigoJaeger.TranslationTool.Outputs.SNES.SNESBassOutput, LibWendigoJaegerTranslationTool"
+    },
+    "Lang": {
+      "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[WendigoJaeger.TranslationTool.Data.LocalizedProjectSettings, LibWendigoJaegerTranslationTool]], System.Private.CoreLib",
+      "fr-FR": {
+        "$type": "WendigoJaeger.TranslationTool.Data.LocalizedProjectSettings, LibWendigoJaegerTranslationTool",
+        "OutputFile": "mmx2_fr.sfc"
+      },
+      "fr-CA": {
+        "$type": "WendigoJaeger.TranslationTool.Data.LocalizedProjectSettings, LibWendigoJaegerTranslationTool",
+        "OutputFile": "mmx2_qc.sfc"
+      }
+    }
+  },
+  "Scripts": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.ScriptSettings, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptSettings, LibWendigoJaegerTranslationTool",
+        "Name": "MainDialog",
+        "Script": {
+          "$type": "WendigoJaeger.TranslationTool.ExternalFile`1[[WendigoJaeger.TranslationTool.Data.ScriptFile, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "Path": "mmx2_main_dialog.wts"
+        },
+        "SourceRAMAddress": 2611200,
+        "DestinationRAMAddress": 2609152,
+        "DestinationEndRAMAddress": 2621439,
+        "Entries": 59,
+        "TextExtractor": {
+          "$type": "WendigoJaeger.TranslationTool.Extractors.ScriptExtractorPointer16LittleEndian, LibWendigoJaegerTranslationTool"
+        },
+        "TableFile": "208567e6-b18d-45c2-a3b1-2ed3de2c90cf",
+        "TextPreview": "6f5fbe7f-b2dc-4ebf-9bff-cdd32dc86c78"
+      }
+    ]
+  },
+  "Graphics": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.GraphicsSettings, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.GraphicsSettings, LibWendigoJaegerTranslationTool",
+        "RAMAddress": 2867968,
+        "GraphicsReader": {
+          "$type": "WendigoJaeger.TranslationTool.Graphics.GraphicsReader2bppNintendo, LibWendigoJaegerTranslationTool"
+        },
+        "OriginalPath": "mainfont_original.gfx",
+        "Entries": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Path": "mainfont_fr.gfx"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Path": "mainfont_qc.gfx"
+            }
+          ]
+        },
+        "ID": "7054fc9e-eed4-4fb9-920d-a593bae5a0fa",
+        "Name": "MainFont"
+      }
+    ]
+  },
+  "AssemblyFileSettings": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.AssemblyFileSettings, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.AssemblyFileSettings, LibWendigoJaegerTranslationTool",
+        "Name": "MoveText",
+        "FilePath": "mmx2_move_text.asm"
+      }
+    ]
+  },
+  "Fonts": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.FontSettings, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.FontSettings, LibWendigoJaegerTranslationTool",
+        "Offset": 22,
+        "Graphics": "7054fc9e-eed4-4fb9-920d-a593bae5a0fa",
+        "Palette": "fb9843a2-ff1a-4060-85a0-41d178653988",
+        "CharacterWidth": 8,
+        "CharacterHeight": 8,
+        "ID": "8f59e6eb-aff0-442a-80a0-e4317f5515bd",
+        "Name": "MainFont"
+      }
+    ]
+  },
+  "Palettes": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.Palette, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.Palette, LibWendigoJaegerTranslationTool",
+        "Entries": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.PaletteColor, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.PaletteColor, LibWendigoJaegerTranslationTool"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.PaletteColor, LibWendigoJaegerTranslationTool",
+              "R": 240,
+              "G": 240,
+              "B": 240
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.PaletteColor, LibWendigoJaegerTranslationTool",
+              "R": 136,
+              "G": 232,
+              "B": 240
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.PaletteColor, LibWendigoJaegerTranslationTool",
+              "R": 3,
+              "G": 21,
+              "B": 78
+            }
+          ]
+        },
+        "ID": "fb9843a2-ff1a-4060-85a0-41d178653988",
+        "Name": "MainFont"
+      }
+    ]
+  },
+  "TableFiles": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TableFile, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.TableFile, LibWendigoJaegerTranslationTool",
+        "Terminator": 130,
+        "NewLine": 128,
+        "NextWindow": 135,
+        "SourceTableFile": "script_en.tbl",
+        "TargetTableFiles": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Path": "script_fr.tbl"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Path": "script_fr.tbl"
+            }
+          ]
+        },
+        "ID": "208567e6-b18d-45c2-a3b1-2ed3de2c90cf",
+        "Name": "MainDialog"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.TableFile, LibWendigoJaegerTranslationTool",
+        "SourceTableFile": "script_en.tbl",
+        "TargetTableFiles": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Path": "script_fr.tbl"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA"
+            }
+          ]
+        },
+        "ID": "2463cd9f-ccb3-4e5a-a307-1a7ccf5e0641",
+        "Name": "SmallTilemapBlock"
+      }
+    ]
+  },
+  "TextPreviewInfos": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TextPreviewInfo, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.TextPreviewInfo, LibWendigoJaegerTranslationTool",
+        "MaxPerLine": 30,
+        "MaxLines": 5,
+        "Font": "8f59e6eb-aff0-442a-80a0-e4317f5515bd",
+        "ID": "6f5fbe7f-b2dc-4ebf-9bff-cdd32dc86c78",
+        "Name": "Cutscene"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.TextPreviewInfo, LibWendigoJaegerTranslationTool",
+        "MaxPerLine": 21,
+        "MaxLines": 9,
+        "Font": "8f59e6eb-aff0-442a-80a0-e4317f5515bd",
+        "ID": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280",
+        "Name": "Dialog Box"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.TextPreviewInfo, LibWendigoJaegerTranslationTool",
+        "MaxPerLine": 30,
+        "MaxLines": 55,
+        "Font": "8f59e6eb-aff0-442a-80a0-e4317f5515bd",
+        "ID": "919a063b-d426-4199-ad21-1111c98aa7c5",
+        "Name": "Ending"
+      }
+    ]
+  },
+  "DataSettings": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.DataSettings, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataSettings, LibWendigoJaegerTranslationTool",
+        "Name": "TilemapUpdates",
+        "DataFile": {
+          "$type": "WendigoJaeger.TranslationTool.ExternalFile`1[[WendigoJaeger.TranslationTool.Data.DataFile, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "Path": "TilemapUpdates.wtd"
+        },
+        "SourceRAMAddress": 429167,
+        "DestinationRAMAddress": 429167,
+        "DestinationEndRAMAddress": 431887,
+        "Entries": 117,
+        "DataExtractor": {
+          "$type": "WendigoJaeger.TranslationTool.Extractors.DataExtractorPointer16LittleEndian, LibWendigoJaegerTranslationTool"
+        },
+        "TableFile": "2463cd9f-ccb3-4e5a-a307-1a7ccf5e0641",
+        "TextPreview": "6f5fbe7f-b2dc-4ebf-9bff-cdd32dc86c78"
+      }
+    ]
+  }
+}

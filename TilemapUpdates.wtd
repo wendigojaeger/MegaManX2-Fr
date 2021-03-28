@@ -1,0 +1,2220 @@
+{
+  "$type": "WendigoJaeger.TranslationTool.Data.DataFile, LibWendigoJaegerTranslationTool",
+  "Pointers": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "284fc2bd-9443-4226-8020-f2fc436c0d2d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "284fc2bd-9443-4226-8020-f2fc436c0d2d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "68410495-adc3-4d30-bf98-ab24f738bd46"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "b137fcd2-6ed9-496f-a62a-f502c4eed548"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "cf4b1895-4d73-4e47-b5f4-ecf810661e40"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "70e6a5cf-fe3c-4702-9347-817841fbfa1c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "c4984171-4aa2-41be-8959-d81d9f6a9a9e"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "c2228df3-d132-459f-9228-e0c4e2c07cef"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "c2228df3-d132-459f-9228-e0c4e2c07cef"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "564bca8d-250c-4f98-a4e8-8c5f94ec7372"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "564bca8d-250c-4f98-a4e8-8c5f94ec7372"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "PointerIndex": 1,
+        "Pointer": "564bca8d-250c-4f98-a4e8-8c5f94ec7372"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "22c1a044-ff89-4145-9627-dbf6f1ea8ad7"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "d921c16a-5b72-455e-915b-45c303403f57"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "d03af977-e677-474f-854f-d62737812750"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "9ba82ce6-e86f-4773-809c-8bfa6ba42aef"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "906ad105-22d9-444b-8611-b773d28a4c68"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "8c8a5922-97b5-4031-b215-74f139a4bdb6"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "fd8a4771-374e-41a2-a3fb-5d221f4b9ec3"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "0a0e60af-06ad-462a-b59e-73da3d312852"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "50839f70-43a5-4b08-8360-612e9122db6b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "47561419-3709-40d4-800c-289ed5602c3f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "4d24a614-c3ed-428d-963e-d335cae26009"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "d3bb92f1-6cb1-4135-aa62-241536cacc0d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "33a7ef9e-3f64-4bec-83ef-2e0d2c2611c0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a57e68a6-edf6-4b87-abf4-c6e9c27f7719"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "8c444514-0049-42d5-88a3-998063c87fb1"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "5b0f9adb-3913-4968-a699-47e5b6fed50d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "dbe8119b-4bf5-45ba-817f-3e8e3ea31994"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "7a3a8845-1fe8-41dd-ad60-7c4bbc307da0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "996800f5-35ab-4a41-b6e1-7cdacf372f72"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "5e7526a8-b445-43f8-916b-410e1df00840"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "40071ede-089e-4037-a8d6-dc4b4934dc5d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "ff35d873-71af-43c1-85b1-a5910ab2acbe"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "3aff69f3-a67a-49e4-81f6-c344495d4bbe"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "e9273616-2b40-4b9d-986b-4fadab8e5b3b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "7bcf5eee-168c-497d-aa06-9b197c568980"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "61425a87-0910-43a8-94e7-ca662540575f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "4b435a57-b08e-4f24-99a3-d8128c0dcf18"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "52831f49-9554-454a-9c9b-43dce301935f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "5cb49037-060a-4f44-8d06-71366fd42e3f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "ff0ef06d-41ba-4dc7-af74-4d8f1dba3d5c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "7a360f5d-e7b2-4d62-82f6-c7330745f260"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "6dabff0d-afe1-41d7-a838-72e415543509"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "77ff0a55-49bc-4051-82bf-f369342628b1"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "68fcb4de-3d59-4659-a0b6-ccb52f250cb7"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "9ca4800b-3497-4a6d-86a9-c781c796cc97"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "200015cd-452d-43d8-a378-7810192d184e"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "96972970-d838-4334-87fe-b489b3d9ff5b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "fb64fe51-8b92-4a9c-80db-856b0c6f4653"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "dd518d11-d798-4cca-961d-058a649928f2"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "47730be6-f242-4b9f-8886-f11717bb3900"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "5447e3a2-cb1e-46fa-9510-173384bacff0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "5447e3a2-cb1e-46fa-9510-173384bacff0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "c5b87937-21a2-4e4d-9c3e-0cd49c371029"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "c5b87937-21a2-4e4d-9c3e-0cd49c371029"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "ba89232b-2b06-40f8-b51d-d74e5c8c01b9"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "408873ae-639d-452c-8e9f-9e7d31841744"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "f71f4a54-594a-4455-bce3-df3ee5158c05"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "276317bc-69c5-4e62-9771-5b7de92bc851"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "f920d9f9-9662-4e91-ad37-5d98b410bb2a"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "45d91380-b28b-4df4-8b0a-1c8d43a7355a"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "e1867d50-c00d-4c10-b861-907f1e2cc5a1"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "123a64d2-5053-4ccd-8e58-3ef966cadf00"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "e2408c74-91a9-409d-8a81-046cb8ff660b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "c60f4a04-84e6-42af-80b8-50a84800cdb3"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "7871fb62-35f6-470b-8e5a-b0dadd232ca7"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "fc59f426-02cd-4112-ab76-897a1abb2857"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "be81ab5c-6ba0-4c03-b2d2-d5994dc5da0c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "89a33b37-ac63-4c89-9b92-0925f4239019"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "0411a6d9-bcd2-41f2-9e57-e2a19ca3b160"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "9aed6b07-67c4-4ebf-9a83-e3937f06ff3f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "28cfaab6-95a8-4966-abc4-8fec8af876e6"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "7cae9335-dbf7-433e-af65-f3e63a47275b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "ead72064-6100-41af-bf9b-dd342d03e652"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "2136cec7-d1a2-401f-a388-b3c06d069e17"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "26e9ca94-1c17-4801-83fc-9b4ee15e47f4"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "40e02a1d-c830-4acc-89e6-6a3da46b898a"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "44cdc56c-c5d7-4394-b158-298f2ebf7acc"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "9cfe2251-645b-4ba4-a39b-a22ab18766ac"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "e8f68b7f-3674-4562-99d1-af5d14bd238f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "6f1938d0-aaef-4481-9164-f7191c1ce4bd"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "05350527-7fee-4e3c-85c8-b3321a5fbd00"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "90af3952-00a9-4384-92f5-244579b74f1c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataPointer, LibWendigoJaegerTranslationTool",
+        "Pointer": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      }
+    ]
+  },
+  "DataEntries": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8d59",
+        "Original": "<PTR000><02> <9d>9<7b><7c><02> <bd>9<7d><7e><08>?<ec>R<f0><f1><f2><f3><f4><f5><f6><f7><08>?<0c>S<f8><f9><fa><fb><fc><fd><fe><ff>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><02> <9d>9<7b><7c><02> <bd>9<7d><7e><08>?<ec>R<f0><f1><f2><f3><f4><f5><f6><f7><08>?<0c>S<f8><f9><fa><fb><fc><fd><fe><ff>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><02> <9d>9<7b><7c><02> <bd>9<7d><7e><08>?<ec>R<f0><f1><f2><f3><f4><f5><f6><f7><08>?<0c>S<f8><f9><fa><fb><fc><fd><fe><ff>"
+            }
+          ]
+        },
+        "ID": "284fc2bd-9443-4226-8020-f2fc436c0d2d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8d7e",
+        "Original": "<PTR000><0c> <ca><09>OPENING DEMO",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0c> <ca><09>OPENING DEMO"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0c> <ca><09>OPENING DEMO"
+            }
+          ]
+        },
+        "ID": "68410495-adc3-4d30-bf98-ab24f738bd46"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8d8f",
+        "Original": "<PTR000><0b> <cc><09><82><8e><8c><88><8d><86><ae><a2><8e><8e><8d><0b> <ec><09><92><9e><9c><98><9d><96><be><b2><9e><9e><9d>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b> <cc><09><82><8e><8c><88><8d><86><ae><a2><8e><8e><8d><0b> <ec><09><92><9e><9c><98><9d><96><be><b2><9e><9e><9d>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b> <cc><09><82><8e><8c><88><8d><86><ae><a2><8e><8e><8d><0b> <ec><09><92><9e><9c><98><9d><96><be><b2><9e><9e><9d>"
+            }
+          ]
+        },
+        "ID": "b137fcd2-6ed9-496f-a62a-f502c4eed548"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8dae",
+        "Original": "<PTR000><02> <9d><09><7b><7c><02> <bd><09><7d><7e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><02> <9d><09><7b><7c><02> <bd><09><7d><7e>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><02> <9d><09><7b><7c><02> <bd><09><7d><7e>"
+            }
+          ]
+        },
+        "ID": "cf4b1895-4d73-4e47-b5f4-ecf810661e40"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8dbb",
+        "Original": "<PTR000><0c>)<8a>Q",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0c>)<8a>Q<00><01><02><03><04><05><06><07><08><09><0a><0b><0c><29><aa><51><0c><0d><0e><0f><10><11><12><13><14><15><16><17><0c><29><ca><51><18><19><1a><1b><1c><1d><1e><1f><20><21><22><23>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0c>)<8a>Q"
+            }
+          ]
+        },
+        "ID": "70e6a5cf-fe3c-4702-9347-817841fbfa1c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8dec",
+        "Original": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSED BY NINTENDO",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSED BY NINTENDO"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSED BY NINTENDO"
+            }
+          ]
+        },
+        "ID": "c4984171-4aa2-41be-8959-d81d9f6a9a9e"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8e41",
+        "Original": "<PTR000><08> <cf><08>01234567",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <cf><08>01234567"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <cf><08>01234567"
+            }
+          ]
+        },
+        "ID": "c2228df3-d132-459f-9228-e0c4e2c07cef"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8e4e",
+        "Original": "<PTR000><0a>(<88><0c>TOP CODE :<07>(<c8><0c>COLOR :<10>(<08><0d>0123456789ABCDEF<PTR001><06>(L<0c>SCR 1 ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0a>(<88><0c>TOP CODE :<07>(<c8><0c>COLOR :<10>(<08><0d>0123456789ABCDEF<PTR001><06>(L<0c>SCR 1 "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0a>(<88><0c>TOP CODE :<07>(<c8><0c>COLOR :<10>(<08><0d>0123456789ABCDEF<PTR001><06>(L<0c>SCR 1 "
+            }
+          ]
+        },
+        "ID": "564bca8d-250c-4f98-a4e8-8c5f94ec7372"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8e86",
+        "Original": "<PTR000><06>(L<0c>SCR 2 ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>(L<0c>SCR 2 "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>(L<0c>SCR 2 "
+            }
+          ]
+        },
+        "ID": "22c1a044-ff89-4145-9627-dbf6f1ea8ad7"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8e91",
+        "Original": "<PTR000><06>(L<0c>SCR 3 ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>(L<0c>SCR 3 "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>(L<0c>SCR 3 "
+            }
+          ]
+        },
+        "ID": "d921c16a-5b72-455e-915b-45c303403f57"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8e9c",
+        "Original": "<PTR000><06>(L<0c>OBJECT",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>(L<0c>OBJECT"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>(L<0c>OBJECT"
+            }
+          ]
+        },
+        "ID": "d03af977-e677-474f-854f-d62737812750"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8ea7",
+        "Original": "<PTR000><0b>$<8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b>$<8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b>$<8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE"
+            }
+          ]
+        },
+        "ID": "9ba82ce6-e86f-4773-809c-8bfa6ba42aef"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8ed3",
+        "Original": "<PTR000><0b> <8a><0a>GAME  START<09>$<ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b> <8a><0a>GAME  START<09>$<ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b> <8a><0a>GAME  START<09>$<ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE"
+            }
+          ]
+        },
+        "ID": "906ad105-22d9-444b-8611-b773d28a4c68"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8eff",
+        "Original": "<PTR000><0b> <8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b>$<0a><0b>OPTION MODE",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b> <8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b>$<0a><0b>OPTION MODE"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b> <8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b>$<0a><0b>OPTION MODE"
+            }
+          ]
+        },
+        "ID": "8c8a5922-97b5-4031-b215-74f139a4bdb6"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8f2b",
+        "Original": "<PTR000><0e> B<08>SET CODE :0  H<0e> b<08>SEQ NO.  :0  H<0e> <82><08>CHR COUNT:0  H<0e> <a2><08>CHR TYPE :0  H",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0e> B<08>SET CODE :0  H<0e> b<08>SEQ NO.  :0  H<0e> <82><08>CHR COUNT:0  H<0e> <a2><08>CHR TYPE :0  H"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0e> B<08>SET CODE :0  H<0e> b<08>SEQ NO.  :0  H<0e> <82><08>CHR COUNT:0  H<0e> <a2><08>CHR TYPE :0  H"
+            }
+          ]
+        },
+        "ID": "fd8a4771-374e-41a2-a3fb-5d221f4b9ec3"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8f74",
+        "Original": "<PTR000><0e> <c2><08>CHR CODE :0  H<0e> <e2><08>OBJCOLOR :0  H<0f> 0<0b>DX:0  H DY:0  H<0f> P<0b>LX:0  H LY:0  H",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0e> <c2><08>CHR CODE :0  H<0e> <e2><08>OBJCOLOR :0  H<0f> 0<0b>DX:0  H DY:0  H<0f> P<0b>LX:0  H LY:0  H"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0e> <c2><08>CHR CODE :0  H<0e> <e2><08>OBJCOLOR :0  H<0f> 0<0b>DX:0  H DY:0  H<0f> P<0b>LX:0  H LY:0  H"
+            }
+          ]
+        },
+        "ID": "0a0e60af-06ad-462a-b59e-73da3d312852"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x8fbf",
+        "Original": "<PTR000><15>(<25><09>This Game Pack is not<15>(e<09>designed for use with<13>(<a5><09>your Super Nintendo<15>(<e5><09>Entertainment System.<05>(<25><0a>(PAL)",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><15>(<25><09>This Game Pack is not<15>(e<09>designed for use with<13>(<a5><09>your Super Nintendo<15>(<e5><09>Entertainment System.<05>(<25><0a>(PAL)"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><15>(<25><09>This Game Pack is not<15>(e<09>designed for use with<13>(<a5><09>your Super Nintendo<15>(<e5><09>Entertainment System.<05>(<25><0a>(PAL)"
+            }
+          ]
+        },
+        "ID": "50839f70-43a5-4b08-8360-612e9122db6b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x902b",
+        "Original": "<PTR000><16>(eP<10><11><12><13><14><15><16><10><11><17><18>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><16>(eP<10><11><12><13><14><15><16><10><11><17><18><00><00><00><19><1a><10><11><1b><11><1c><1d><16><28><85><50><1e><1f><20><21><22><23><24><1e><1f><25><26><00><00><00><27><28><1e><1f><29><1f><2a><2b>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><16>(eP<10><11><12><13><14><15><16><10><11><17><18>"
+            }
+          ]
+        },
+        "ID": "47561419-3709-40d4-800c-289ed5602c3f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9060",
+        "Original": "<PTR000><06>$<e5><08><ab><ac><ac><ac><ac><aa><0a>0<eb><08>KEY CONFIG<06>d<f5><08><aa><ac><ac><ac><ac><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>$<e5><08><ab><ac><ac><ac><ac><aa><0a>0<eb><08>KEY CONFIG<06>d<f5><08><aa><ac><ac><ac><ac><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>$<e5><08><ab><ac><ac><ac><ac><aa><0a>0<eb><08>KEY CONFIG<06>d<f5><08><aa><ac><ac><ac><ac><ab>"
+            }
+          ]
+        },
+        "ID": "4d24a614-c3ed-428d-963e-d335cae26009"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9083",
+        "Original": "<PTR000><01>$<05><09><ad><01>d<1a><09><ad><01>$<25><09><ad><01>d:<09><ad><01>$E<09><ad><01>dZ<09><ad><01>$e<09><ad><01>dz<09><ad><01>$<85><09><ad><01>d<9a><09><ad><01>$<a5><09><ad><01>d<ba><09><ad><01>$<c5><09><ad><01>d<da><09><ad><01>$<e5><09><ad><01>d<fa><09><ad>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><01>$<05><09><ad><01>d<1a><09><ad><01>$<25><09><ad><01>d:<09><ad><01>$E<09><ad><01>dZ<09><ad><01>$e<09><ad><01>dz<09><ad><01>$<85><09><ad><01>d<9a><09><ad><01>$<a5><09><ad><01>d<ba><09><ad><01>$<c5><09><ad><01>d<da><09><ad><01>$<e5><09><ad><01>d<fa><09><ad>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><01>$<05><09><ad><01>d<1a><09><ad><01>$<25><09><ad><01>d:<09><ad><01>$E<09><ad><01>dZ<09><ad><01>$e<09><ad><01>dz<09><ad><01>$<85><09><ad><01>d<9a><09><ad><01>$<a5><09><ad><01>d<ba><09><ad><01>$<c5><09><ad><01>d<da><09><ad><01>$<e5><09><ad><01>d<fa><09><ad>"
+            }
+          ]
+        },
+        "ID": "d3bb92f1-6cb1-4135-aa62-241536cacc0d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x90d4",
+        "Original": "<PTR000><15><a4><05><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><e4><1a><0a><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><15><a4><05><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><e4><1a><0a><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><15><a4><05><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><e4><1a><0a><ab>"
+            }
+          ]
+        },
+        "ID": "33a7ef9e-3f64-4bec-83ef-2e0d2c2611c0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x90f3",
+        "Original": "<PTR000><06>,<e5><08><ab><ac><ac><ac><ac><aa><0a>4<eb><08>KEY CONFIG<06>l<f5><08><aa><ac><ac><ac><ac><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>,<e5><08><ab><ac><ac><ac><ac><aa><0a>4<eb><08>KEY CONFIG<06>l<f5><08><aa><ac><ac><ac><ac><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>,<e5><08><ab><ac><ac><ac><ac><aa><0a>4<eb><08>KEY CONFIG<06>l<f5><08><aa><ac><ac><ac><ac><ab>"
+            }
+          ]
+        },
+        "ID": "a57e68a6-edf6-4b87-abf4-c6e9c27f7719"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9116",
+        "Original": "<PTR000><01>,<05><09><ad><01>l<1a><09><ad><01>,<25><09><ad><01>l:<09><ad><01>,E<09><ad><01>lZ<09><ad><01>,e<09><ad><01>lz<09><ad><01>,<85><09><ad><01>l<9a><09><ad><01>,<a5><09><ad><01>l<ba><09><ad><01>,<c5><09><ad><01>l<da><09><ad><01>,<e5><09><ad><01>l<fa><09><ad>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><01>,<05><09><ad><01>l<1a><09><ad><01>,<25><09><ad><01>l:<09><ad><01>,E<09><ad><01>lZ<09><ad><01>,e<09><ad><01>lz<09><ad><01>,<85><09><ad><01>l<9a><09><ad><01>,<a5><09><ad><01>l<ba><09><ad><01>,<c5><09><ad><01>l<da><09><ad><01>,<e5><09><ad><01>l<fa><09><ad>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><01>,<05><09><ad><01>l<1a><09><ad><01>,<25><09><ad><01>l:<09><ad><01>,E<09><ad><01>lZ<09><ad><01>,e<09><ad><01>lz<09><ad><01>,<85><09><ad><01>l<9a><09><ad><01>,<a5><09><ad><01>l<ba><09><ad><01>,<c5><09><ad><01>l<da><09><ad><01>,<e5><09><ad><01>l<fa><09><ad>"
+            }
+          ]
+        },
+        "ID": "8c444514-0049-42d5-88a3-998063c87fb1"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9167",
+        "Original": "<PTR000><15><ac><05><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><ec><1a><0a><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><15><ac><05><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><ec><1a><0a><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><15><ac><05><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><ec><1a><0a><ab>"
+            }
+          ]
+        },
+        "ID": "5b0f9adb-3913-4968-a699-47e5b6fed50d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9186",
+        "Original": "<PTR000><06>$e<0a><ab><ac><ac><ac><ac><aa><0a>0k<0a>SOUND MODE<06>du<0a><aa><ac><ac><ac><ac><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>$e<0a><ab><ac><ac><ac><ac><aa><0a>0k<0a>SOUND MODE<06>du<0a><aa><ac><ac><ac><ac><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>$e<0a><ab><ac><ac><ac><ac><aa><0a>0k<0a>SOUND MODE<06>du<0a><aa><ac><ac><ac><ac><ab>"
+            }
+          ]
+        },
+        "ID": "dbe8119b-4bf5-45ba-817f-3e8e3ea31994"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x91a9",
+        "Original": "<PTR000><01>$<85><0a><ad><01>d<9a><0a><ad><01>$<a5><0a><ad><01>d<ba><0a><ad><01>$<c5><0a><ad><01>d<da><0a><ad>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><01>$<85><0a><ad><01>d<9a><0a><ad><01>$<a5><0a><ad><01>d<ba><0a><ad><01>$<c5><0a><ad><01>d<da><0a><ad>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><01>$<85><0a><ad><01>d<9a><0a><ad><01>$<a5><0a><ad><01>d<ba><0a><ad><01>$<c5><0a><ad><01>d<da><0a><ad>"
+            }
+          ]
+        },
+        "ID": "7a3a8845-1fe8-41dd-ad60-7c4bbc307da0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x91c8",
+        "Original": "<PTR000><15><a4><e5><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><e4><fa><0a><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><15><a4><e5><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><e4><fa><0a><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><15><a4><e5><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><e4><fa><0a><ab>"
+            }
+          ]
+        },
+        "ID": "996800f5-35ab-4a41-b6e1-7cdacf372f72"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x91e7",
+        "Original": "<PTR000><06>,e<0a><ab><ac><ac><ac><ac><aa><0a>4k<0a>SOUND MODE<06>lu<0a><aa><ac><ac><ac><ac><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><06>,e<0a><ab><ac><ac><ac><ac><aa><0a>4k<0a>SOUND MODE<06>lu<0a><aa><ac><ac><ac><ac><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><06>,e<0a><ab><ac><ac><ac><ac><aa><0a>4k<0a>SOUND MODE<06>lu<0a><aa><ac><ac><ac><ac><ab>"
+            }
+          ]
+        },
+        "ID": "5e7526a8-b445-43f8-916b-410e1df00840"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x920a",
+        "Original": "<PTR000><01>,<85><0a><ad><01>l<9a><0a><ad><01>,<a5><0a><ad><01>l<ba><0a><ad><01>,<c5><0a><ad><01>l<da><0a><ad>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><01>,<85><0a><ad><01>l<9a><0a><ad><01>,<a5><0a><ad><01>l<ba><0a><ad><01>,<c5><0a><ad><01>l<da><0a><ad>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><01>,<85><0a><ad><01>l<9a><0a><ad><01>,<a5><0a><ad><01>l<ba><0a><ad><01>,<c5><0a><ad><01>l<da><0a><ad>"
+            }
+          ]
+        },
+        "ID": "40071ede-089e-4037-a8d6-dc4b4934dc5d"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9229",
+        "Original": "<PTR000><15><ac><e5><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><ec><fa><0a><ab>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><15><ac><e5><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><ec><fa><0a><ab>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><15><ac><e5><0a><ab><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><ac><01><ec><fa><0a><ab>"
+            }
+          ]
+        },
+        "ID": "ff35d873-71af-43c1-85b1-a5910ab2acbe"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9248",
+        "Original": "<PTR000><04> )<09>SHOT",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04> )<09>SHOT"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04> )<09>SHOT"
+            }
+          ]
+        },
+        "ID": "3aff69f3-a67a-49e4-81f6-c344495d4bbe"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9251",
+        "Original": "<PTR000><04>()<09>SHOT",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04>()<09>SHOT"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04>()<09>SHOT"
+            }
+          ]
+        },
+        "ID": "e9273616-2b40-4b9d-986b-4fadab8e5b3b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x925a",
+        "Original": "<PTR000><04> I<09>JUMP",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04> I<09>JUMP"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04> I<09>JUMP"
+            }
+          ]
+        },
+        "ID": "7bcf5eee-168c-497d-aa06-9b197c568980"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9263",
+        "Original": "<PTR000><04>(I<09>JUMP",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04>(I<09>JUMP"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04>(I<09>JUMP"
+            }
+          ]
+        },
+        "ID": "61425a87-0910-43a8-94e7-ca662540575f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x926c",
+        "Original": "<PTR000><04> i<09>DASH",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04> i<09>DASH"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04> i<09>DASH"
+            }
+          ]
+        },
+        "ID": "4b435a57-b08e-4f24-99a3-d8128c0dcf18"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9275",
+        "Original": "<PTR000><04>(i<09>DASH",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04>(i<09>DASH"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04>(i<09>DASH"
+            }
+          ]
+        },
+        "ID": "52831f49-9554-454a-9c9b-43dce301935f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x927e",
+        "Original": "<PTR000><08> <87><09>SELECTùL",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <87><09>SELECTùL"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <87><09>SELECTùL"
+            }
+          ]
+        },
+        "ID": "5cb49037-060a-4f44-8d06-71366fd42e3f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x928b",
+        "Original": "<PTR000><08>(<87><09>SELECTùL",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>(<87><09>SELECTùL"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>(<87><09>SELECTùL"
+            }
+          ]
+        },
+        "ID": "ff0ef06d-41ba-4dc7-af74-4d8f1dba3d5c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9298",
+        "Original": "<PTR000><08> <a7><09>SELECTùR",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <a7><09>SELECTùR"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <a7><09>SELECTùR"
+            }
+          ]
+        },
+        "ID": "7a360f5d-e7b2-4d62-82f6-c7330745f260"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92a5",
+        "Original": "<PTR000><08>(<a7><09>SELECTùR",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>(<a7><09>SELECTùR"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>(<a7><09>SELECTùR"
+            }
+          ]
+        },
+        "ID": "6dabff0d-afe1-41d7-a838-72e415543509"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92b2",
+        "Original": "<PTR000><04> <c9><09>MENU",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04> <c9><09>MENU"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04> <c9><09>MENU"
+            }
+          ]
+        },
+        "ID": "77ff0a55-49bc-4051-82bf-f369342628b1"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92bb",
+        "Original": "<PTR000><04>(<c9><09>MENU",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04>(<c9><09>MENU"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04>(<c9><09>MENU"
+            }
+          ]
+        },
+        "ID": "68fcb4de-3d59-4659-a0b6-ccb52f250cb7"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92c4",
+        "Original": "<PTR000><04> N<0b>EXIT",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04> N<0b>EXIT"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04> N<0b>EXIT"
+            }
+          ]
+        },
+        "ID": "9ca4800b-3497-4a6d-86a9-c781c796cc97"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92cd",
+        "Original": "<PTR000><04>(N<0b>EXIT",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04>(N<0b>EXIT"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04>(N<0b>EXIT"
+            }
+          ]
+        },
+        "ID": "200015cd-452d-43d8-a378-7810192d184e"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92d6",
+        "Original": "<PTR000><08> <ac><0a> STEREO ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <ac><0a> STEREO "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <ac><0a> STEREO "
+            }
+          ]
+        },
+        "ID": "96972970-d838-4334-87fe-b489b3d9ff5b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92e3",
+        "Original": "<PTR000><08>(<ac><0a> STEREO ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>(<ac><0a> STEREO "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>(<ac><0a> STEREO "
+            }
+          ]
+        },
+        "ID": "fb64fe51-8b92-4a9c-80db-856b0c6f4653"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92f0",
+        "Original": "<PTR000><08> <ac><0a>MONAURAL",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <ac><0a>MONAURAL"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <ac><0a>MONAURAL"
+            }
+          ]
+        },
+        "ID": "dd518d11-d798-4cca-961d-058a649928f2"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x92fd",
+        "Original": "<PTR000><08>(<ac><0a>MONAURAL",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>(<ac><0a>MONAURAL"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>(<ac><0a>MONAURAL"
+            }
+          ]
+        },
+        "ID": "47730be6-f242-4b9f-8886-f11717bb3900"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x930a",
+        "Original": "<PTR000><0a>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0a><00><2b><09><20><20><20><20><20><20><20><20><20><20><0a><00><4b><09><20><20><20><20><20><20><20><20><20><20><0a><00><6b><09><20><20><20><20><20><20><20><20><20><20><0a><00><8b><09><20><20><20><20><20><20><20><20><20><20><0a><00><ab><09><20><20><20><20><20><20><20><20><20><20><0a><00><cb><09><20><20><20><20><20><20><20><20><20><20><0a><00><eb><09><20><20><20><20><20><20><20><20><20><20><0a><00><0b><0a><20><20><20><20><20><20><20><20><20><20><0a><00><2b><0a><20><20><20><20><20><20><20><20><20><20><0a><00><4b><0a><20><20><20><20><20><20><20><20><20><20>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0a>"
+            }
+          ]
+        },
+        "ID": "5447e3a2-cb1e-46fa-9510-173384bacff0"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9397",
+        "Original": "<PTR000><0a> <cb><0a><8c><8e><a1><8f><87>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0a> <cb><0a><8c><8e><a1><8f><87><00><8c><8e><a3><87><0a><20><eb><0a><9c><9e><b1><9f><97><00><9c><9e><b3><97>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0a> <cb><0a><8c><8e><a1><8f><87>"
+            }
+          ]
+        },
+        "ID": "c5b87937-21a2-4e4d-9c3e-0cd49c371029"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x93b4",
+        "Original": "<PTR000><0b> <cb><0a><a6><88><a1><84>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b> <cb><0a><a6><88><a1><84><00><a2><8f><8e><8d><86><84><0b><20><eb><0a><b6><98><b1><94><00><b2><9f><9e><9d><96><94>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b> <cb><0a><a6><88><a1><84>"
+            }
+          ]
+        },
+        "ID": "ba89232b-2b06-40f8-b51d-d74e5c8c01b9"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x93d3",
+        "Original": "<PTR000><0b> <cb><0a><81><a4><81><81><8b><84>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b> <cb><0a><81><a4><81><81><8b><84><00><82><a1><80><81><0b><20><eb><0a><91><b4><91><91><9b><94><00><92><b1><90><91>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b> <cb><0a><81><a4><81><81><8b><84>"
+            }
+          ]
+        },
+        "ID": "408873ae-639d-452c-8e9f-9e7d31841744"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x93f2",
+        "Original": "<PTR000><0a> <cb><0a><85><8b><80><8c><84>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0a> <cb><0a><85><8b><80><8c><84><00><a2><a3><80><86><0a><20><eb><0a><95><9b><90><9c><94><00><b2><b3><90><96>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0a> <cb><0a><85><8b><80><8c><84>"
+            }
+          ]
+        },
+        "ID": "f71f4a54-594a-4455-bce3-df3ee5158c05"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x940f",
+        "Original": "<PTR000><0f> <c9><0a><8c><80><86><8d><80>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0f> <c9><0a><8c><80><86><8d><80><00><82><84><8d><a3><88><8f><84><83><84><0f><20><e9><0a><9c><90><96><9d><90><00><92><94><9d><b3><98><9f><94><93><94>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0f> <c9><0a><8c><80><86><8d><80>"
+            }
+          ]
+        },
+        "ID": "276317bc-69c5-4e62-9771-5b7de92bc851"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9436",
+        "Original": "<PTR000><0d> <ca><0a><82><a1><a8><a2><a3><80><8b>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0d> <ca><0a><82><a1><a8><a2><a3><80><8b><00><a2><8d><80><88><8b><0d><20><ea><0a><92><b1><b8><b2><b3><90><9b><00><b2><9d><90><98><9b>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0d> <ca><0a><82><a1><a8><a2><a3><80><8b>"
+            }
+          ]
+        },
+        "ID": "f920d9f9-9662-4e91-ad37-5d98b410bb2a"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9459",
+        "Original": "<PTR000><11> <c8><0a><8e><a5><84><a1><83><a1><88><a5><84>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><11> <c8><0a><8e><a5><84><a1><83><a1><88><a5><84><00><8e><a2><a3><a1><88><82><87><11><20><e8><0a><9e><b5><94><b1><93><b1><98><b5><94><00><9e><b2><b3><b1><98><92><97>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><11> <c8><0a><8e><a5><84><a1><83><a1><88><a5><84>"
+            }
+          ]
+        },
+        "ID": "45d91380-b28b-4df4-8b0a-1c8d43a7355a"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9484",
+        "Original": "<PTR000><0b> <cb><0a><a6><87><84><84><8b>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0b> <cb><0a><a6><87><84><84><8b><00><86><80><a3><8e><a1><0b><20><eb><0a><b6><97><94><94><9b><00><96><90><b3><9e><b1>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0b> <cb><0a><a6><87><84><84><8b>"
+            }
+          ]
+        },
+        "ID": "e1867d50-c00d-4c10-b861-907f1e2cc5a1"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x94a3",
+        "Original": "<PTR000><08> <8c><0a> STEREO ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <8c><0a> STEREO "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <8c><0a> STEREO "
+            }
+          ]
+        },
+        "ID": "123a64d2-5053-4ccd-8e58-3ef966cadf00"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x94b0",
+        "Original": "<PTR000><08>(<8c><0a> STEREO ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>(<8c><0a> STEREO "
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>(<8c><0a> STEREO "
+            }
+          ]
+        },
+        "ID": "e2408c74-91a9-409d-8a81-046cb8ff660b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x94bd",
+        "Original": "<PTR000><08> <8c><0a>MONAURAL",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> <8c><0a>MONAURAL"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> <8c><0a>MONAURAL"
+            }
+          ]
+        },
+        "ID": "c60f4a04-84e6-42af-80b8-50a84800cdb3"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x94ca",
+        "Original": "<PTR000><08>(<8c><0a>MONAURAL",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>(<8c><0a>MONAURAL"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>(<8c><0a>MONAURAL"
+            }
+          ]
+        },
+        "ID": "7871fb62-35f6-470b-8e5a-b0dadd232ca7"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x94d7",
+        "Original": "<PTR000><1e>8a<09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><1e>8a<09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><1e>8a<09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            }
+          ]
+        },
+        "ID": "fc59f426-02cd-4112-ab76-897a1abb2857"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x94fa",
+        "Original": "<PTR000><1e>8<a1><09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><1e>8<a1><09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><1e>8<a1><09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            }
+          ]
+        },
+        "ID": "be81ab5c-6ba0-4c03-b2d2-d5994dc5da0c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x951d",
+        "Original": "<PTR000><1e>8<e1><09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><1e>8<e1><09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><1e>8<e1><09><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            }
+          ]
+        },
+        "ID": "89a33b37-ac63-4c89-9b92-0925f4239019"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9540",
+        "Original": "<PTR000><1e>8!<0a><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><1e>8!<0a><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><1e>8!<0a><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf><bf>"
+            }
+          ]
+        },
+        "ID": "0411a6d9-bcd2-41f2-9e57-e2a19ca3b160"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9563",
+        "Original": "<PTR000><14><08><e6><08>THANKS FOR PLAYING!!",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><14><08><e6><08>THANKS FOR PLAYING!!"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><14><08><e6><08>THANKS FOR PLAYING!!"
+            }
+          ]
+        },
+        "ID": "9aed6b07-67c4-4ebf-9a83-e3937f06ff3f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x957c",
+        "Original": "<PTR000><0c><0c><aa><09>PRESENTED BY",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0c><0c><aa><09>PRESENTED BY"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0c><0c><aa><09>PRESENTED BY"
+            }
+          ]
+        },
+        "ID": "28cfaab6-95a8-4966-abc4-8fec8af876e6"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x958d",
+        "Original": "<PTR000><0c>)<ea>Q",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0c>)<ea>Q<00><01><02><03><04><05><06><07><08><09><0a><0b><0c><29><0a><52><0c><0d><0e><0f><10><11><12><13><14><15><16><17><0c><29><2a><52><18><19><1a><1b><1c><1d><1e><1f><20><21><22><23>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0c>)<ea>Q"
+            }
+          ]
+        },
+        "ID": "7cae9335-dbf7-433e-af65-f3e63a47275b"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x95be",
+        "Original": "<PTR000><08>,l<08>Cx4 TEST",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08>,l<08>Cx4 TEST"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08>,l<08>Cx4 TEST"
+            }
+          ]
+        },
+        "ID": "ead72064-6100-41af-bf9b-dd342d03e652"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x95cb",
+        "Original": "<PTR000><12> <e4><08>INTERFACE REGISTER",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><12> <e4><08>INTERFACE REGISTER"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><12> <e4><08>INTERFACE REGISTER"
+            }
+          ]
+        },
+        "ID": "2136cec7-d1a2-401f-a388-b3c06d069e17"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x95e2",
+        "Original": "<PTR000><0d> $<09>REGISTER FILE",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0d> $<09>REGISTER FILE"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0d> $<09>REGISTER FILE"
+            }
+          ]
+        },
+        "ID": "26e9ca94-1c17-4801-83fc-9b4ee15e47f4"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x95f4",
+        "Original": "<PTR000><08> d<09>DATA RAM",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><08> d<09>DATA RAM"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><08> d<09>DATA RAM"
+            }
+          ]
+        },
+        "ID": "40e02a1d-c830-4acc-89e6-6a3da46b898a"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9601",
+        "Original": "<PTR000><05> <a4><09>LDMAC",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><05> <a4><09>LDMAC"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><05> <a4><09>LDMAC"
+            }
+          ]
+        },
+        "ID": "44cdc56c-c5d7-4394-b158-298f2ebf7acc"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x960b",
+        "Original": "<PTR000><09> <e4><09>DOWN LOAD",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><09> <e4><09>DOWN LOAD"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><09> <e4><09>DOWN LOAD"
+            }
+          ]
+        },
+        "ID": "9cfe2251-645b-4ba4-a39b-a22ab18766ac"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9619",
+        "Original": "<PTR000><04> $<0a>MALU",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><04> $<0a>MALU"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><04> $<0a>MALU"
+            }
+          ]
+        },
+        "ID": "e8f68b7f-3674-4562-99d1-af5d14bd238f"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9622",
+        "Original": "<PTR000><12> d<0a>IMMEDIATE REGISTER",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><12> d<0a>IMMEDIATE REGISTER"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><12> d<0a>IMMEDIATE REGISTER"
+            }
+          ]
+        },
+        "ID": "6f1938d0-aaef-4481-9164-f7191c1ce4bd"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9639",
+        "Original": "<PTR000><0d> <a4><0a>IMMEDIATE ROM",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0d> <a4><0a>IMMEDIATE ROM"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0d> <a4><0a>IMMEDIATE ROM"
+            }
+          ]
+        },
+        "ID": "05350527-7fee-4e3c-85c8-b3321a5fbd00"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x964b",
+        "Original": "<PTR000><14>,ô<0b>PRESS BUTTON TO EXIT",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><14>,ô<0b>PRESS BUTTON TO EXIT"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><14>,ô<0b>PRESS BUTTON TO EXIT"
+            }
+          ]
+        },
+        "ID": "90af3952-00a9-4384-92f5-244579b74f1c"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Entry 0x9664",
+        "Original": "<PTR000><0e><97><16><97><17><97>'<97>/<97>0<97>ô<97>8<97>@<97>H<97>P<97>X<97>g<97>o<97><7e><97><7e><97><7f><97><87><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><a5><97><b4><97><c3><97><d2><97><e1><97><f0><97><0d><98>î<98>@<98>O<98>O<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>Q<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>à<98>c<98>k<98>s<98>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<PTR000><0e><97><16><97><17><97>'<97>/<97>0<97>ô<97>8<97>@<97>H<97>P<97>X<97>g<97>o<97><7e><97><7e><97><7f><97><87><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><a5><97><b4><97><c3><97><d2><97><e1><97><f0><97><0d><98>î<98>@<98>O<98>O<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>Q<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>à<98>c<98>k<98>s<98>"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<PTR000><0e><97><16><97><17><97>'<97>/<97>0<97>ô<97>8<97>@<97>H<97>P<97>X<97>g<97>o<97><7e><97><7e><97><7f><97><87><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><88><97><a5><97><b4><97><c3><97><d2><97><e1><97><f0><97><0d><98>î<98>@<98>O<98>O<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>P<98>Q<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>R<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>S<98>à<98>c<98>k<98>s<98>"
+            }
+          ]
+        },
+        "ID": "a9dd60e5-3e9f-4494-91f2-b431d99718ad"
+      }
+    ]
+  }
+}

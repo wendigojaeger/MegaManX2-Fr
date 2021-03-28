@@ -1,0 +1,1369 @@
+{
+  "$type": "WendigoJaeger.TranslationTool.Data.ScriptFile, LibWendigoJaegerTranslationTool",
+  "Entries": {
+    "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+    "$values": [
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Intro #1",
+        "Original": "<89><a2><0a><c0>It has been 6 months since \n\nthe destruction of (Sigma) \n\nand little has changed.\n\n<87><aa><86><06>The Maverick revolt started\n\nby Sigma is over, but Mega \n\nMan X and the new generation\n\n<87><aa><86><06>of Maverick Hunters have yet\n\nto destroy all of Sigma's\n\nfollowers.\n\n<87><aa><86><06>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c0>6 mois se sont écoulés depuis\n\nla défaite de (Sigma) et\n\npresque rien n'a changé.\n\n<87><aa><86><06>La révolte des Maverick débuté\n\npar Sigma est terminé, mais\n\nMega Man X et les nouveaux\n\n<87><aa><86><06>chasseurs de Maverick n'ont\n\ntoujours pas détruit tous\n\nles disciples de Sigma.\n\n<87><aa><86><06>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c0>Ca fait 6 mois que (Sigma)\n\nyé mort pis que toute est\n\npresque pareil comme avant.\n\n<87><aa><86><06>La guerre des Maverick débuté \n\npar Sigma est feni, mais Mega\n\nMan X pis les nouveaux\n\n<87><aa><86><06>chasseurs de Maverick ont\n\npas encore pêté tous les\n\nsuiveux de Sigma.\n\n<87><aa><86><06>",
+              "State": "Review"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Intro #2",
+        "Original": "<89><a2><0a><c0><88><01>Lead by information gained by\n\nDr. Cain, Mega Man X and the\n\nrest of the Hunters have\n\n<87><aa><86><06>tracked the last of the\n\nMavericks to an abandoned\n\nreploid factory.\n\n<87><aa><86><06>There they hope to wipe out\n\nthe last of the resistance.\n\n<87><aa><86><04>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c0><88><01>Guidé par des informations\n\nobtenues par le Dr. Cain,\n\nMega Man X et les chasseurs\n\n<87><aa><86><06>ont repéré les derniers\n\nMaverick dans une usine\n\nréploïde abandonnée.\n\n<87><aa><86><06>Là ils espèrent éradiquer\n\nles derniers survivants de la\n\nrésistance.\n\n<87><aa><86><04>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c0><88><01>Guidé par des infos recu\n\npar le Dr. Cain, Mega Man X\n\npis les chasseurs Maverick ont\n\n<87><aa><86><06>trouvé les derniers\n\nMaverick dans une shop\n\nde réploïdes abandonné.\n\n<87><aa><86><06>Là ils pense être\n\ncapable de décrisser les\n\nderniers résistants.\n\n<87><aa><86><04>",
+              "State": "Review"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "You Got menu",
+        "Original": "<89><03><0b><c0><88><04>You got",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><03><0b><c0><88><04>Recu",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><03><0b><c0><88><04>You got"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Silk Shot",
+        "Original": "<89><0b><0b><c2><88><04>Silk Shot<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Silk Shot<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Silk Shot<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Strike Chain",
+        "Original": "<89><0b><0b><c2><88><04>Strike Chain<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Strike Chain<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Strike Chain<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Bubble Spash",
+        "Original": "<89><0b><0b><c2><88><04>Bubble Splash<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Bubble Splash<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Bubble Splash<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Speed Burner",
+        "Original": "<89><0b><0b><c2><88><04>Speed Burner<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Speed Burner<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Speed Burner<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Magnet Mine",
+        "Original": "<89><0b><0b><c2><88><04>Magnet Mine<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Magnet Mine<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Magnet Mine<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Crystal Hunter",
+        "Original": "<89><0b><0b><c2><88><04>Crystal Hunter<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Crystal Hunter<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Crystal Hunter<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Sonic Slicer",
+        "Original": "<89><0b><0b><c2><88><04>Sonic Slicer<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Sonic Slicer<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Sonic Slicer<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Weapon Spin Wheel",
+        "Original": "<89><0b><0b><c2><88><04>Spin Wheel<87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><0b><0b><c2><88><04>Spin Wheel<87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><0b><0b><c2><88><04>Spin Wheel<87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Foot Upgrade Capsule",
+        "Original": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nmain drive unit.\n\n<81><80><86><07><87><1e>With it you will be\n\nable to dash while\n\nin mid-air.\n\n<81><80><86><07><87><1e>Use it wisely,\n\nMega Man X.\n\n<81><80>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, entre\n\ndans la capsule.\n\n<81><80><86><07><87><1e>Cette amélioration\n\nva modifier ton unité\n\nprincipale de\n\nmouvement.\n\n<81><80><86><09><87><1e>Avec celle-ci tu vas\n\nêtre capable de\n\nglisser dans les\n\nairs.\n\n<81><80><86><09><87><1e>Utilise-le\n\njudicieusement\n\nMega Man X.\n\n<81><80>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nmain drive unit.\n\n<81><80><86><07><87><1e>With it you will be\n\nable to dash while\n\nin mid-air.\n\n<81><80><86><07><87><1e>Use it wisely,\n\nMega Man X.\n\n<81><80>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Head Upgrade Capsule",
+        "Original": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nradar optics.\n\n<81><80><86><07><87><1e>It uses some energy,\n\nbut with it you\n\nwill be able to see\n\nobjects that you\n\ncould not see before.\n\n<81><80><86><0b><87><1e>Good luck, Mega Man.\n\n<81><80>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, entre\n\ndans la capsule.\n\n<81><80><86><07><87><1e>Cette amélioration\n\nva modifier tes\n\noptiques radar.\n\n<81><80><86><07><87><1e>Elle utilise un peu\n\nd'énergie, mais tu\n\nverras des objets que\n\ntu ne pouvait voir\n\navant.\n\n<81><80><86><0b><87><1e>Bonne chance,\n\nMega Man.\n\n<81><80>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nradar optics.\n\n<81><80><86><07><87><1e>It uses some energy,\n\nbut with it you\n\nwill be able to see\n\nobjects that you\n\ncould not see before.\n\n<81><80><86><0b><87><1e>Good luck, Mega Man.\n\n<81><80>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Body Upgrade Capsule",
+        "Original": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nbody armor.\n\n<81><80><86><07><87><1e>With it you can\n\nabsorb damage and\n\ntransfer it into \n\nexplosive weapon\n\nenergy.\n\n<81><80>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, entre\n\ndans la capsule.\n\n<81><80><86><07><87><1e>Cette amélioration\n\nva modifier ton\n\narmure.\n\n<81><80><86><07><87><1e>Avec celle-ci tu peux\n\nabsorber les dégâts\n\net les transformer en\n\nune arme d'énergie\n\nexplosive.\n\n<81><80>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nbody armor.\n\n<81><80><86><07><87><1e>With it you can\n\nabsorb damage and\n\ntransfer it into \n\nexplosive weapon\n\nenergy.\n\n<81><80>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Arm Upgrade Capsule",
+        "Original": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nX-Buster.\n\n<81><80><86><07><87><1e>With it you will\n\nbe able to charge\n\nenergy in both arms\n\nat once.\n\n<81><80><86><09><87><1e>This enables you to\n\nshoot a Double-Shot\n\nor to charge any\n\nweapon!\n\n<81><80>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, entre\n\ndans la capsule.\n\n<81><80><86><07><87><1e>Cette amélioration\n\nva modifier ton\n\nX-Buster.\n\n<81><80><86><07><87><1e>Avec celle-ci tu vas\n\npouvoir charger\n\nd'énergie tes deux\n\nbras en même temps.\n\n<81><80><86><09><87><1e>Ca permet de tirer\n\nun Double-Shot ou de\n\ncharger n'importe\n\nquel arme!\n\n<81><80>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nX-Buster.\n\n<81><80><86><07><87><1e>With it you will\n\nbe able to charge\n\nenergy in both arms\n\nat once.\n\n<81><80><86><09><87><1e>This enables you to\n\nshoot a Double-Shot\n\nor to charge any\n\nweapon!\n\n<81><80>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Intro #3",
+        "Original": "<89><a2><0a><c0><88><01>Little do they suspect that\n\nreal war is about to begin...\n\n<87><f0><87> ",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c0><88><01>Ils ne se doutent pas que\n\nla vraie guerre va bientôt\n\ncommencer...\n\n<87><f0><87> ",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c0><88><01>Personne se doutent que\n\nla vraie bataille va\n\ncommencer...\n\n<87><f0><87> ",
+              "State": "Review"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "void",
+        "Original": "",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": ""
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "After Intro Stage Cutscene",
+        "Original": "<89><a2><0a><c0><88><06>(SERGES)\n\nThis is their leader.\n\nHis name is Mega Man X.\n\n<81><80><86><07><87><1e><88><08><c1>(VIOLEN)\n\nThose who underestimated him\n\nare now nothing but scrap.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nWe won't make the same\n\nmistake.\n\n<81><80><86><07><87><1e>He is powerful, but he is\n\nblind to what is happening\n\naround him.\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nOur Mavericks will keep him\n\nbusy until we are ready.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nYes. How is the plan\n\nproceeding?\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nCollection is proceeding as\n\nscheduled.\n\n<81><80><86><07><87><1e>However, we are having\n\nproblems with the control\n\nchip.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nWe have little time.\n\n<81><80><86><05><87><1e><88><04><c2>We must finish construction\n\non schedule.\n\nWe must hurry...\n\n<81><80>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c0><88><06>(SERGES)\n\nVoici leur leader.\n\nSon nom est Mega Man X.\n\n<81><80><86><07><87><1e><88><08><c1>(VIOLEN)\n\nCeux qui l'ont sous-estimé ne\n\nsont plus que de la ferraille.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nNous ne ferrons pas la même\n\nerreur.\n\n<81><80><86><07><87><1e>Il est puissant, mais ignorant\n\nsur ce qui se passe \n\nautour de lui.\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nNos Mavericks vont l'occuper\n\njusqu'à nous soyons prêt.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nOui. D'ailleurs, comment le\n\nplan avance?\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nLa collecte avance comme\n\nprévu.\n\n<81><80><86><07><87><1e>Cependant, nous avons des\n\nembûches avec la puce de\n\ncontrôle.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nNous avons peu de temps.\n\n<81><80><86><05><87><1e><88><04><c2>Nous devons terminer la\n\nconstruction dans les délais.\n\nDépêchons-nous...\n\n<81><80>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c0><88><06>(SERGES)\n\nThis is their leader.\n\nHis name is Mega Man X.\n\n<81><80><86><07><87><1e><88><08><c1>(VIOLEN)\n\nThose who underestimated him\n\nare now nothing but scrap.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nWe won't make the same\n\nmistake.\n\n<81><80><86><07><87><1e>He is powerful, but he is\n\nblind to what is happening\n\naround him.\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nOur Mavericks will keep him\n\nbusy until we are ready.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nYes. How is the plan\n\nproceeding?\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nCollection is proceeding as\n\nscheduled.\n\n<81><80><86><07><87><1e>However, we are having\n\nproblems with the control\n\nchip.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nWe have little time.\n\n<81><80><86><05><87><1e><88><04><c2>We must finish construction\n\non schedule.\n\nWe must hurry...\n\n<81><80>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "After 2 Boss Cutscene #1",
+        "Original": "<89><a2><0a><c2><88><02>(AGILE)\n\nI see now why Sigma fell at\n\nthe hands of Mega Man X.\n\n<81><80><86><07><87><1e><88><02>He is quite formidable.\n\n<81><80><86><03><87><1e><88><06><c0>(SERGES)\n\nI am not sure our Mavericks\n\ncan hold him long enough.\n\n<81><80><86><07><87><<c0>We may have to intervene.\n\n<81><80><86><03><87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c2><88><02>(AGILE)\n\nJe comprends maintenant\n\npourquoi Sigma tomba aux\n\n<81><80><86><07><87><1e><88><02>mains de Mega Man X. Il est \n\nassez redoutable.\n\n<81><80><86><05><87><1e><88><06><c0>(SERGES)\n\nJe doute que nos Mavericks\n\npeuvent le retenir longtemps.\n\n<81><80><86><07><87><<c0>Nous devrions peut-être \n\nintervenir.\n\n<81><80><86><05><87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c2><88><02>(AGILE)\n\nI see now why Sigma fell at\n\nthe hands of Mega Man X.\n\n<81><80><86><07><87><1e><88><02>He is quite formidable.\n\n<81><80><86><03><87><1e><88><06><c0>(SERGES)\n\nI am not sure our Mavericks\n\ncan hold him long enough.\n\n<81><80><86><07><87><<c0>We may have to intervene.\n\n<81><80><86><03><87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "After 2 Boss Cutscene #2",
+        "Original": "<89><a2><0a><c0><88><04><8b><01>(MEGA MAN)\n\nDr. Cain! what happened?!\n\n<81><80><86><05><87><1e><c1><8b><02>(DR. CAIN)\n\nA group of Mavericks calling\n\nthemselves the (X-Hunters)\n\n<81><80><86><07><87><1e>have just contacted us...\n\n<81><80><86><03><87><1e><8b><ff><c2><88><07>(SERGES)\n\nGreetings. We have all of\n\nZero's parts.\n\n<81><80><86><07><87><1e><88><08>(VIOLEN)\n\nThey can be yours,\n\nif you can defeat us!\n\n<81><80><86><07><87><1e><88><02>(AGILE)\n\nWe look forward to meeting\n\nyou, X!\n\n<81><80><86><07><87><1e><88><05><8b><02><c1>(DR. CAIN)\n\nX, Zero's control chip is\n\nstill stored here.\n\n<81><80><86><07><87><1e>I doubt it is possible to\n\nresurrect him without it.\n\n<81><80><86><05><87><1e><8b><01><c0>(MEGA MAN)\n\nDr. Cain, I've got to get\n\nZero's parts back\n\n<81><80><86><07><87><1e>at any cost!\n\n<81><80><86><03><87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c0><88><04><8b><01>(MEGA MAN)\n\nDr. Cain! Que s'est-il passé?\n\n<81><80><86><05><87><1e><c1><8b><02>(DR. CAIN)\n\nUn groupe de Mavericks qui se\n\nfont appeler les (X-Hunters)\n\n<81><80><86><07><87><1e>nous ont contacté...\n\n<81><80><86><03><87><1e><8b><ff><c2><88><07>(SERGES)\n\nSalutations. Nous avons toutes\n\nles pièces de Zero.\n\n<81><80><86><07><87><1e><88><08>(VIOLEN)\n\nTu peux les ravoir,\n\nsi tu peux nous vaincre!\n\n<81><80><86><07><87><1e><88><02>(AGILE)\n\nNous sommes impatient de te\n\nrencontrer, X!\n\n<81><80><86><07><87><1e><88><05><8b><02><c1>(DR. CAIN)\n\nX, la puce de contrôle de Zero\n\nest encore entreposé ici.\n\n<81><80><86><07><87><1e>Je doute qui soit possible de\n\nle réssuciter sans elle.\n\n<81><80><86><05><87><1e><8b><01><c0>(MEGA MAN)\n\nDr. Cain, je dois récupérer\n\nles pièces de Zero\n\n<81><80><86><07><87><1e>à tout prix!\n\n<81><80><86><03><87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c0><88><04><8b><01>(MEGA MAN)\n\nDr. Cain! what happened?!\n\n<81><80><86><05><87><1e><c1><8b><02>(DR. CAIN)\n\nA group of Mavericks calling\n\nthemselves the (X-Hunters)\n\n<81><80><86><07><87><1e>have just contacted us...\n\n<81><80><86><03><87><1e><8b><ff><c2><88><07>(SERGES)\n\nGreetings. We have all of\n\nZero's parts.\n\n<81><80><86><07><87><1e><88><08>(VIOLEN)\n\nThey can be yours,\n\nif you can defeat us!\n\n<81><80><86><07><87><1e><88><02>(AGILE)\n\nWe look forward to meeting\n\nyou, X!\n\n<81><80><86><07><87><1e><88><05><8b><02><c1>(DR. CAIN)\n\nX, Zero's control chip is\n\nstill stored here.\n\n<81><80><86><07><87><1e>I doubt it is possible to\n\nresurrect him without it.\n\n<81><80><86><05><87><1e><8b><01><c0>(MEGA MAN)\n\nDr. Cain, I've got to get\n\nZero's parts back\n\n<81><80><86><07><87><1e>at any cost!\n\n<81><80><86><03><87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Zero Before Sigma",
+        "Original": "<8a><89><86><08><c1><88><04>(ZERO)\n\nHere it is, X!\n\nSigma lies just\n\nahead!\n\n<81><80><86><09><87><1e>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c1><88><04>(ZERO)\n\nLe voici, X!\n\nSigma est juste\n\ndevant!\n\n<81><80><86><09><87><1e>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c1><88><04>(ZERO)\n\nHere it is, X!\n\nSigma lies just\n\nahead!\n\n<81><80><86><09><87><1e>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Intro #4",
+        "Original": "<89><aa><0a><c1><88><03>MEGA MAN X2\n\n<87>@<89><e8><0a><c1><88><03>Versus X-Hunters\n\n<87><f0>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><aa><0a><c1><88><03>MEGA MAN X2\n\n<87><40><89><e6><0a><c1><88><03>Contre les X-Hunters\n\n<87><f0>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><aa><0a><c1><88><03>MEGA MAN X2\n\n<87><40><89><e6><0a><c1><88><03>contre les X-Hunters\n\n<87><f0>",
+              "State": "Review"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "void",
+        "Original": "",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": ""
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "After 8 Boss Missing Zero Part",
+        "Original": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nI'm sorry X...\n\nOne of the X-Hunters attacked\n\n<81><80><86><07><87><1e>the base and...\n\ntook all of Zero's parts\n\naway...\n\n<81><80><86><07><87><1e>They are going to rebuild\n\nZero at their base.\n\n<81><80><86><05><87><1e>I tracked them to location\n\n00 - The North Pole!\n\n<81><80><86><05><87><1e><c0><88><05><8b><01>(MEGA MAN)\n\nI can't let them tamper with\n\nhim Dr. Cain.\n\n<81><80><86><07><87><1e>I've got to save him!\n\n<81><80><86><03>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nJe suis désolé X...\n\nUn des X-Hunters a attaqué\n\n<81><80><86><07><87><1e>la base et...\n\na volé toutes les pièces de\n\nZero...\n\n<81><80><86><07><87><1e>Ils vont reconstruire\n\nZero à leur base.\n\n<81><80><86><05><87><1e>J'ai localisé leur position:\n\n00 - Le pôle nord!\n\n<81><80><86><05><87><1e><c0><88><05><8b><01>(MEGA MAN)\n\nJe ne peux pas les laisser le\n\ntrafiquer Dr. Cain.\n\n<81><80><86><07><87><1e>Je dois le sauver!\n\n<81><80><86><03>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nI'm sorry X...\n\nOne of the X-Hunters attacked\n\n<81><80><86><07><87><1e>the base and...\n\ntook all of Zero's parts\n\naway...\n\n<81><80><86><07><87><1e>They are going to rebuild\n\nZero at their base.\n\n<81><80><86><05><87><1e>I tracked them to location\n\n00 - The North Pole!\n\n<81><80><86><05><87><1e><c0><88><05><8b><01>(MEGA MAN)\n\nI can't let them tamper with\n\nhim Dr. Cain.\n\n<81><80><86><07><87><1e>I've got to save him!\n\n<81><80><86><03>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "After Getting All Zero Parts",
+        "Original": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nI can try to reactivate Zero\n\nto help, but I need more time\n\n<81><80><86><07><87><1e>before you can reinstall his\n\ncontrol chip...\n\nTry to slow them down!\n\n<81><80><86><07><87><1e>Good luck!\n\n<81><80><86><03>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nJe peux essayer de réactiver\n\nZero pour qui puisse t'aider,\n\n<81><80><86><07><87><1e>mais j'ai besoin de plus de\n\ntemps avant que tu puisse\n\nréinstaller\n\n<81><80><86><07><87><1e>sa puce de contrôle...\n\nEssaie de les ralentir!\n\n<81><80><86><05><87><1e>Bonne chance!\n\n<81><80><86><03>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nI can try to reactivate Zero\n\nto help, but I need more time\n\n<81><80><86><07><87><1e>before you can reinstall his\n\ncontrol chip...\n\nTry to slow them down!\n\n<81><80><86><07><87><1e>Good luck!\n\n<81><80><86><03>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Shoryuken Capsule",
+        "Original": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nWow! You are so cool!\n\nI'm not worthy!!!\n\nI'm not worthy!!!\n\n<81><80><86><09><87><1e>Step inside for\n\na special surprise!\n\n<81><80><86><05>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nWow! Tu est si cool!\n\nOn mérite pas!!!\n\nOn est tout petit!!!\n\nOn est à chier!!!\n\n<81><80><86><0b><87><1e>Rentre à l'intérieur\n\npour une surprise\n\nspéciale!\n\n<81><80><86><07>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nWow! You are so cool!\n\nI'm not worthy!!!\n\nI'm not worthy!!!\n\n<81><80><86><09><87><1e>Step inside for\n\na special surprise!\n\n<81><80><86><05>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Agile first encounter",
+        "Original": "<89><86><08><c0><88><02>(AGILE)\n\nWelcome X.\n\nYour destruction is\n\nat hand!\n\n<81><80><86><09>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nBienvenue X.\n\nTa destruction est a \n\nportée de main!\n\n<81><80><86><09>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nWelcome X.\n\nYour destruction is\n\nat hand!\n\n<81><80><86><09>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Agile first encouter defeat",
+        "Original": "<89><86><08><c0><88><02>(AGILE)\n\nI may have failed,\n\nbut you will never\n\nlive to see Zero!\n\n<81><80><86><09>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nJ'ai peut-être\n\néchoué, mais tu ne\n\nvivras jamais pour\n\nrevoir Zero!\n\n<81><80><86><0b>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nI may have failed,\n\nbut you will never\n\nlive to see Zero!\n\n<81><80><86><09>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Violen first encounter",
+        "Original": "<89><86><08><c0><88><08>(VIOLEN)\n\nX, I shall crush\n\nyou like a tin can!\n\n<81><80><86><07>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nX, je t'écraserai\n\ncomme une canne de\n\nconserve!\n\n<81><80><86><09>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nX, I shall crush\n\nyou like a tin can!\n\n<81><80><86><07>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Violen first encounter defeat",
+        "Original": "<89><86><08><c0><88><08>(VIOLEN)\n\nit cannot be!\n\nNow the unification\n\nis in jeopardy!\n\n<81><80><86><09>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nC'est impossible!\n\nMaintenant l'unifi-\n\ncation est en péril!\n\n<81><80><86><09>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nit cannot be!\n\nNow the unification\n\nis in jeopardy!\n\n<81><80><86><09>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Serges first encounter",
+        "Original": "<89><86><08><c0><88><06>(SERGES)\n\nI am Serges and I\n\ncannot allow you to\n\nstop the \n\nunification!\n\n<81><80><86><0b><87><1e>It is for the good\n\nof all!\n\n<81><80><86><05>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nJe suis Serges et je \n\nne te permettrai pas \n\nd'arrêter l'unifi-\n\ncation!\n\n<81><80><86><0b><87><1e>C'est pour le bien\n\nde tous!\n\n<81><80><86><05>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nI am Serges and I\n\ncannot allow you to\n\nstop the \n\nunification!\n\n<81><80><86><0b><87><1e>It is for the good\n\nof all!\n\n<81><80><86><05>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Serges first encounter defeat",
+        "Original": "<89><86><08><c0><88><06>(SERGES)\n\nYou have merely\n\ndelayed,the\n\ninevitable. We will\n\nmeet again...\n\n<81><80><86><0b>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nTu as simplement\n\nralenti l'inévitable.\n\nNous nous\n\nreverrons...\n\n<81><80><86><0b>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nYou have merely\n\ndelayed,the\n\ninevitable. We will\n\nmeet again...\n\n<81><80><86><0b>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Credits",
+        "Original": "<8b><00><87>x<89>b<0b><c2><88><00> MEGA MAN X2 \n\n\n\n<86><04>    CAST      \n\n\n\n\n\n\n\n\n\n<86><0a><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><c0>Cannon Driver\n\n<86><02><80><80><86><02>Scriver\n\n<86><02><80><80><86><02>Bar Waying\n\n<86><02><80><80><86><02>Scrambler\n\n<86><02><80><80><86><02>Slidame\n\n<86><02><80><80><86><02>Mecha-Arm\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Gigantic\n<86><01>  Mechaniroid\n<86><01><c1><CF-0><c0><80><80><86><02><80><80><86><02>Croak Hopper\n\n<86><02><80><80><86><02>Weather\n<86><01>      Cristal\n\n<86><02><80><80><86><02>Sole Solar L\n\n<86><02><80><80><86><02>Sole Solar M\n\n<86><02><80><80><86><02><80><80><86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Probe\n<86><01>  8201-U type\n\n<86><02><80><80><86><02>Sky Farmer\n\n<86><02><80><80><86><02>Rightod 1\n<86><01>Sabottein 2\n\n<86><02><80><80><86><02>Hanged\n<86><01>      Reploid\n\n<86><02><80><80><86><02>Garakuta\n<86><01>        Robot\n\n<86><02><80><80><86><02>Old Robot\n\n<86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Paraloid S-38\n\n<86><02><80><80><86><02>Paraloid V-1\n\n<86><02><80><80><86><02>Paraloid R-5\n\n<86><02><80><80><86><02>Beetron\n\n<86><02><80><80><86><02>Barite Lastar\n\n<86><02><80><80><86><02>Morgun\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Blecker\n\n<86><02><80><80><86><02>Barrier\n<86><01>     Attacker\n\n<86><02><80><80><86><02>Installer\n\n<86><02><80><80><86><02>Chop Register\n\n<86><02><80><80><86><02>Raider\n<86><01>       Killer\n\n<86><02><80><80><86><02>Crash Roader\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Road Riders\n\n<86><02><80><80><86><02>Ride Chaser\n<86><01>ADU-T400turbo\n<86><01><c1><CHEVAL><c0><80><80><86><02><80><80><86><02>Batton Bone\n<86><01>       type G\n\n<86><02><80><80><86><02>Fishern\n\n<86><02><80><80><86><02>Sea-Canthller\n\n<86><02><80><80><86><02>Jelly Seeker\n<86><01><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Tubamail-S\n\n<86><02><80><80><86><02>Tubamail\n<86><01>    Generater\n\n<86><02><80><80><86><02>Tiranos\n\n<86><02><80><80><86><02>Switch type\n<86><01>     Elevator\n\n<86><02><80><80><86><02>Disk Boy 08\n\n<86><02><80><80><86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Aclanda\n\n<86><02><80><80><86><02>Ride loid-G\n\n<86><02><80><80><86><02>Ride Armor\n<86><01>type EG-2 cus\n<86><01><c1><RABBIT><c0><80><80><86><02><80><80><86><02>Refleczer\n\n<86><02><80><80><86><02>Magna Quartz\n\n<86><02><80><80><86><02>Savor Moon R\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><8b><01><87>x<89>Q<08><88><02><c0>Morph\nMoth\n\n<c3>POWER  3200rp\n\nSPEED  8800rp\n\n\n\n\n\n<c0>Wire\nSponge\n\n<c3>POWER  6400rp\n\nSPEED  4800rp\n\n<87><80><86><1b><89>Q<08><c0>Bubble\nCrab\n\n<c3>POWER  6000rp\n\nSPEED  4800rp\n\n\n\n\n\n<c0>Flame\nStag\n\n<c3>POWER  3600rp\n\nSPEED  7000rp\n\n<87><80><86><1b><89>Q<08><c0>Magna\nCentipede\n\n<c3>POWER  2900rp\n\nSPEED  8880rp\n\n\n\n\n\n<c0>Crystal\nSnail\n\n<c3>POWER  6800rp\n\nSPEED   500rp\n\n<87><80><86><1b><89>Q<08><c0>Overdrive\nOstrich\n\n<c3>POWER  3800rp\n\nSPEED  9900rp\n\n\n\n\n\n<c0>Wheel\nGator\n\n<c3>POWER  9800rp\n\nSPEED  1800rp\n\n<87><80><86><1b><89>Q<08><c0>AGILE\n\n\n<c3>POWER  9800rp\n\nSPEED 17800rp\n\n\n\n\n\n<c0>SERGES\n\n\n<c3>POWER 10300rp\n\nSPEED 12300rp\n\n<87><80><86><1b><89>Q<08><c0>VIOLEN\n\n\n<c3>POWER 18400rp\n\nSPEED  6200rp\n\n\n\n\n\n<c0>NEO SIGMA\n\n\n<c3>POWER 18500rp\n\nSPEED 18500rp\n\n<87><80><86><1b><89>Q<08><c0>ZERO\n\n\n<c3>POWER  ????rp\n\nSPEED  ????rp\n\n\n\n\n\n<c1><88><08>AND YOU AS<87>0\n\n<88><03><c0>MEGA MAN <c2>X\n\n<c3>POWER  ????rp\n\nSPEED  ????rp\n\n<87><d0><86><1b>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8b><00><87>x<89>b<0b><c2><88><00> MEGA MAN X2 \n\n\n\n<86><04> DISTRIBUTION \n\n\n\n\n\n\n\n\n\n<86><0a><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><c0>Cannon Driver\n\n<86><02><80><80><86><02>Scriver\n\n<86><02><80><80><86><02>Bar Waying\n\n<86><02><80><80><86><02>Scrambler\n\n<86><02><80><80><86><02>Slidame\n\n<86><02><80><80><86><02>Mecha-Arm\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Gigantic\n<86><01>  Mechaniroid\n<86><01><c1><CF-0><c0><80><80><86><02><80><80><86><02>Croak Hopper\n\n<86><02><80><80><86><02>Weather\n<86><01>      Cristal\n\n<86><02><80><80><86><02>Sole Solar L\n\n<86><02><80><80><86><02>Sole Solar M\n\n<86><02><80><80><86><02><80><80><86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Probe\n<86><01>  8201-U type\n\n<86><02><80><80><86><02>Sky Farmer\n\n<86><02><80><80><86><02>Rightod 1\n<86><01>Sabottein 2\n\n<86><02><80><80><86><02>Hanged\n<86><01>      Reploid\n\n<86><02><80><80><86><02>Garakuta\n<86><01>        Robot\n\n<86><02><80><80><86><02>Old Robot\n\n<86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Paraloid S-38\n\n<86><02><80><80><86><02>Paraloid V-1\n\n<86><02><80><80><86><02>Paraloid R-5\n\n<86><02><80><80><86><02>Beetron\n\n<86><02><80><80><86><02>Barite Lastar\n\n<86><02><80><80><86><02>Morgun\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Blecker\n\n<86><02><80><80><86><02>Barrier\n<86><01>     Attacker\n\n<86><02><80><80><86><02>Installer\n\n<86><02><80><80><86><02>Chop Register\n\n<86><02><80><80><86><02>Raider\n<86><01>       Killer\n\n<86><02><80><80><86><02>Crash Roader\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Road Riders\n\n<86><02><80><80><86><02>Ride Chaser\n<86><01>ADU-T400turbo\n<86><01><c1><CHEVAL><c0><80><80><86><02><80><80><86><02>Batton Bone\n<86><01>       type G\n\n<86><02><80><80><86><02>Fishern\n\n<86><02><80><80><86><02>Sea-Canthller\n\n<86><02><80><80><86><02>Jelly Seeker\n<86><01><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Tubamail-S\n\n<86><02><80><80><86><02>Tubamail\n<86><01>    Generater\n\n<86><02><80><80><86><02>Tiranos\n\n<86><02><80><80><86><02>Switch type\n<86><01>     Elevator\n\n<86><02><80><80><86><02>Disk Boy 08\n\n<86><02><80><80><86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Aclanda\n\n<86><02><80><80><86><02>Ride loid-G\n\n<86><02><80><80><86><02>Ride Armor\n<86><01>type EG-2 cus\n<86><01><c1><RABBIT><c0><80><80><86><02><80><80><86><02>Refleczer\n\n<86><02><80><80><86><02>Magna Quartz\n\n<86><02><80><80><86><02>Savor Moon R\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><8b><01><87>x<89>Q<08><88><02><c0>Morph\nMoth\n\n<c3>FORCE    3200rp\n\nVITESSE  8800rp\n\n\n\n\n\n<c0>Wire\nSponge\n\n<c3>FORCE    6400rp\n\nVITESSE  4800rp\n\n<87><80><86><1b><89>Q<08><c0>Bubble\nCrab\n\n<c3>FORCE    6000rp\n\nVITESSE  4800rp\n\n\n\n\n\n<c0>Flame\nStag\n\n<c3>FORCE    3600rp\n\nVITESSE  7000rp\n\n<87><80><86><1b><89>Q<08><c0>Magna\nCentipede\n\n<c3>FORCE    2900rp\n\nVITESSE  8880rp\n\n\n\n\n\n<c0>Crystal\nSnail\n\n<c3>FORCE    6800rp\n\nVITESSE   500rp\n\n<87><80><86><1b><89>Q<08><c0>Overdrive\nOstrich\n\n<c3>FORCE    3800rp\n\nVITESSE  9900rp\n\n\n\n\n\n<c0>Wheel\nGator\n\n<c3>FORCE    9800rp\n\nVITESSE  1800rp\n\n<87><80><86><1b><89>Q<08><c0>AGILE\n\n\n<c3>FORCE    9800rp\n\nVITESSE 17800rp\n\n\n\n\n\n<c0>SERGES\n\n\n<c3>FORCE   10300rp\n\nVITESSE 12300rp\n\n<87><80><86><1b><89>Q<08><c0>VIOLEN\n\n\n<c3>FORCE   18400rp\n\nVITESSE  6200rp\n\n\n\n\n\n<c0>NEO SIGMA\n\n\n<c3>FORCE   18500rp\n\nVITESSE 18500rp\n\n<87><80><86><1b><89>Q<08><c0>ZERO\n\n\n<c3>FORCE    ????rp\n\nVITESSE  ????rp\n\n\n\n\n\n<c1><88><08>ET TOI EN<87>0\n\n<88><03><c0>MEGA MAN <c2>X\n\n<c3>FORCE    ????rp\n\nVITESSE  ????rp\n\n<87><d0><86><1b>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8b><00><87>x<89>b<0b><c2><88><00> MEGA MAN X2 \n\n\n\n<86><04>    CAST      \n\n\n\n\n\n\n\n\n\n<86><0a><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><c0>Cannon Driver\n\n<86><02><80><80><86><02>Scriver\n\n<86><02><80><80><86><02>Bar Waying\n\n<86><02><80><80><86><02>Scrambler\n\n<86><02><80><80><86><02>Slidame\n\n<86><02><80><80><86><02>Mecha-Arm\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Gigantic\n<86><01>  Mechaniroid\n<86><01><c1><CF-0><c0><80><80><86><02><80><80><86><02>Croak Hopper\n\n<86><02><80><80><86><02>Weather\n<86><01>      Cristal\n\n<86><02><80><80><86><02>Sole Solar L\n\n<86><02><80><80><86><02>Sole Solar M\n\n<86><02><80><80><86><02><80><80><86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Probe\n<86><01>  8201-U type\n\n<86><02><80><80><86><02>Sky Farmer\n\n<86><02><80><80><86><02>Rightod 1\n<86><01>Sabottein 2\n\n<86><02><80><80><86><02>Hanged\n<86><01>      Reploid\n\n<86><02><80><80><86><02>Garakuta\n<86><01>        Robot\n\n<86><02><80><80><86><02>Old Robot\n\n<86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Paraloid S-38\n\n<86><02><80><80><86><02>Paraloid V-1\n\n<86><02><80><80><86><02>Paraloid R-5\n\n<86><02><80><80><86><02>Beetron\n\n<86><02><80><80><86><02>Barite Lastar\n\n<86><02><80><80><86><02>Morgun\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Blecker\n\n<86><02><80><80><86><02>Barrier\n<86><01>     Attacker\n\n<86><02><80><80><86><02>Installer\n\n<86><02><80><80><86><02>Chop Register\n\n<86><02><80><80><86><02>Raider\n<86><01>       Killer\n\n<86><02><80><80><86><02>Crash Roader\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Road Riders\n\n<86><02><80><80><86><02>Ride Chaser\n<86><01>ADU-T400turbo\n<86><01><c1><CHEVAL><c0><80><80><86><02><80><80><86><02>Batton Bone\n<86><01>       type G\n\n<86><02><80><80><86><02>Fishern\n\n<86><02><80><80><86><02>Sea-Canthller\n\n<86><02><80><80><86><02>Jelly Seeker\n<86><01><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Tubamail-S\n\n<86><02><80><80><86><02>Tubamail\n<86><01>    Generater\n\n<86><02><80><80><86><02>Tiranos\n\n<86><02><80><80><86><02>Switch type\n<86><01>     Elevator\n\n<86><02><80><80><86><02>Disk Boy 08\n\n<86><02><80><80><86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Aclanda\n\n<86><02><80><80><86><02>Ride loid-G\n\n<86><02><80><80><86><02>Ride Armor\n<86><01>type EG-2 cus\n<86><01><c1><RABBIT><c0><80><80><86><02><80><80><86><02>Refleczer\n\n<86><02><80><80><86><02>Magna Quartz\n\n<86><02><80><80><86><02>Savor Moon R\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><8b><01><87>x<89>Q<08><88><02><c0>Morph\nMoth\n\n<c3>POWER  3200rp\n\nSPEED  8800rp\n\n\n\n\n\n<c0>Wire\nSponge\n\n<c3>POWER  6400rp\n\nSPEED  4800rp\n\n<87><80><86><1b><89>Q<08><c0>Bubble\nCrab\n\n<c3>POWER  6000rp\n\nSPEED  4800rp\n\n\n\n\n\n<c0>Flame\nStag\n\n<c3>POWER  3600rp\n\nSPEED  7000rp\n\n<87><80><86><1b><89>Q<08><c0>Magna\nCentipede\n\n<c3>POWER  2900rp\n\nSPEED  8880rp\n\n\n\n\n\n<c0>Crystal\nSnail\n\n<c3>POWER  6800rp\n\nSPEED   500rp\n\n<87><80><86><1b><89>Q<08><c0>Overdrive\nOstrich\n\n<c3>POWER  3800rp\n\nSPEED  9900rp\n\n\n\n\n\n<c0>Wheel\nGator\n\n<c3>POWER  9800rp\n\nSPEED  1800rp\n\n<87><80><86><1b><89>Q<08><c0>AGILE\n\n\n<c3>POWER  9800rp\n\nSPEED 17800rp\n\n\n\n\n\n<c0>SERGES\n\n\n<c3>POWER 10300rp\n\nSPEED 12300rp\n\n<87><80><86><1b><89>Q<08><c0>VIOLEN\n\n\n<c3>POWER 18400rp\n\nSPEED  6200rp\n\n\n\n\n\n<c0>NEO SIGMA\n\n\n<c3>POWER 18500rp\n\nSPEED 18500rp\n\n<87><80><86><1b><89>Q<08><c0>ZERO\n\n\n<c3>POWER  ????rp\n\nSPEED  ????rp\n\n\n\n\n\n<c1><88><08>AND YOU AS<87>0\n\n<88><03><c0>MEGA MAN <c2>X\n\n<c3>POWER  ????rp\n\nSPEED  ????rp\n\n<87><d0><86><1b>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Ending",
+        "Original": "<89>b<0b><c0><88><00><80><86><01>Joined by his friend Zero,\n\n<86><02>Mega Man X gazes out over \n\n<86><02>the sea.\n\n\n\n<86><04><80><80><80><86><03>Sigma has once again been\n\n<86><02>destroyed, but X wonders if\n\n<86><02>the fighting will truly end.\n\n\n\n<86><04><80><80><80><86><03>Was Dr. Light's dream of a\n\n<86><02>world in which reploids and\n\n<86><02>humans lived together in\n\n<86><02>peace merely a dream?\n\n\n\n<86><04><80><80><80><86><03>The price of peace is often\n\n<86><02>high, X thinks to himself.\n\n\n\n<86><04><80><80><80><86><03>Who or what must be\n\n<86><02>sacrificed for it to become\n\n<86><02>reality?\n\n\n\n<86><04><80><80><80><86><03>And when the time comes,\n\n<86><02>will he be able to do it?\n\n\n\n<86><04><80><80><80><86><03>The future holds the answers\n\n<86><02>or...\n\n<86><02><86><0f>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>b<0b><c0><88><00><80><86><01>Rejoins par son ami Zero,\n\n<86><02>Mega Man X contemple\n\n<86><02>la mer.\n\n\n\n<86><04><80><80><80><86><03>Sigma a subi une seconde\n\n<86><02>défaite, mais X se demande si\n\n<86><02>le combat s'arrêtera.\n\n\n\n<86><04><80><80><80><86><03>Est-ce qu le rêve du Dr. Light\n\n<86><02>d'un monde où les réploïdes et\n\n<86><02>les humains vivre en harmonie\n\n<86><02>n'était qu'une utopie?\n\n\n\n<86><04><80><80><80><86><03>Le prix de la paix est souvent\n\n<86><02>élevé, X se dit.\n\n\n\n<86><04><80><80><80><86><03>Qui ou quoi doit être\n\n<86><02>sacrifié pour que cela\n\n<86><02>devienne réalité?\n\n\n\n<86><04><80><80><80><86><03>Et lorsque le temps viendra,\n\n<86><02>serait-t-il prêt à le faire?\n\n\n\n<86><04><80><80><80><86><03>Le futur contient les\n\n<86><02>réponses ou...\n\n<86><02><86><0f>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>b<0b><c0><88><00><80><86><01>Joined by his friend Zero,\n\n<86><02>Mega Man X gazes out over \n\n<86><02>the sea.\n\n\n\n<86><04><80><80><80><86><03>Sigma has once again been\n\n<86><02>destroyed, but X wonders if\n\n<86><02>the fighting will truly end.\n\n\n\n<86><04><80><80><80><86><03>Was Dr. Light's dream of a\n\n<86><02>world in which reploids and\n\n<86><02>humans lived together in\n\n<86><02>peace merely a dream?\n\n\n\n<86><04><80><80><80><86><03>The price of peace is often\n\n<86><02>high, X thinks to himself.\n\n\n\n<86><04><80><80><80><86><03>Who or what must be\n\n<86><02>sacrificed for it to become\n\n<86><02>reality?\n\n\n\n<86><04><80><80><80><86><03>And when the time comes,\n\n<86><02>will he be able to do it?\n\n\n\n<86><04><80><80><80><86><03>The future holds the answers\n\n<86><02>or...\n\n<86><02><86><0f>"
+            }
+          ]
+        },
+        "TextPreview": "919a063b-d426-4199-ad21-1111c98aa7c5"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "void",
+        "Original": "",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": ""
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "void",
+        "Original": "",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": ""
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Morph Moth Stage",
+        "Original": "<89>K<09><c0><88><02>Robot<00>Junkyard\n\n<83><0c>Stage\n\nBoss:\n\nMorph<00>Moth",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Depotoir<00>Robotique\n\nBoss:\n\nMorph<00>Moth",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>K<09><c0><88><02>Robot<00>Junkyard\n\n<83><0c>Stage\n\nBoss:\n\nMorph<00>Moth"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Wire Sponge Stage",
+        "Original": "<89>K<09><c0><88><02>Weather<00>Control\n\n<83><0c>Stage\n\nBoss:\n\nWire<00>Sponge",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Controle<00>Meteo\n\nBoss:\n\nWire<00>Sponge",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>K<09><c0><88><02>Weather<00>Control\n\n<83><0c>Stage\n\nBoss:\n\nWire<00>Sponge"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Bubble Crab Stage",
+        "Original": "<89>K<09><c0><88><02>Deep-Sea<00>Base\n\n<83><0c>Stage\n\nBoss:\n\nBubble<00>Crab",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Base<00>Sous-Marine\n\nBoss:\n\nBubble<00>Crab",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>K<09><c0><88><02>Deep-Sea<00>Base\n\n<83><0c>Stage\n\nBoss:\n\nBubble<00>Crab"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Flame Stag Stage",
+        "Original": "<89>K<09><c0><88><02>Volcanic<00>Zone\n\n<83><0c>Stage\n\nBoss:\n\nFlame<00>Stag",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Zone<00>Volcanique\n\nBoss:\n\nFlame<00>Stag",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>K<09><c0><88><02>Volcanic<00>Zone\n\n<83><0c>Stage\n\nBoss:\n\nFlame<00>Stag"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Magna Centipede Stage",
+        "Original": "<89>K<09><c0><88><02>Central<00>Computer\n\n<83><0c>Stage\n\nBoss:\n\nMagna<00>Centipede",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Ordinateur<00>Central\n\nBoss:\n\nMagna<00>Centipede",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>K<09><c0><88><02>Central<00>Computer\n\n<83><0c>Stage\n\nBoss:\n\nMagna<00>Centipede"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Crystal Snail Stage",
+        "Original": "<89>B<09><c0><88><02>Energen<00>Crystal\n\n<83><0c>Stage\n\nBoss:\n\nCrystal<00>Snail",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>Crystal<00>Energen\n\nBoss:\n\nCrystal<00>Snail",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>B<09><c0><88><02>Energen<00>Crystal\n\n<83><0c>Stage\n\nBoss:\n\nCrystal<00>Snail"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Overdrive Ostrich Stage",
+        "Original": "<89>B<09><c0><88><02>Desert<00>Base\n\n<83><0c>Stage\n\nBoss:\n\nOverdrive<00>Ostrich",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>Base<00>Desertique\n\nBoss:\n\nOverdrive<00>Ostrich",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>B<09><c0><88><02>Desert<00>Base\n\n<83><0c>Stage\n\nBoss:\n\nOverdrive<00>Ostrich"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Wheel Gator Stage",
+        "Original": "<89>B<09><c0><88><02>Dinosaur<00>Tank\n\n<83><0c>Stage\n\nBoss:\n\nWheel<00>Gator",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>Tank<00>Dinosaure\n\nBoss:\n\nWheel<00>Gator",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>B<09><c0><88><02>Dinosaur<00>Tank\n\n<83><0c>Stage\n\nBoss:\n\nWheel<00>Gator"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "X-Hunter Stage",
+        "Original": "<89>B<09><c0><88><02><00>X-Hunter\n\n<83><05>Stage\n\nBoss:\n\n??????????",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>X-Hunter\n\nBoss:\n\n??????????",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89>B<09><c0><88><02><00>X-Hunter\n\n<83><05>Stage\n\nBoss:\n\n??????????"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Got Zero Part 1",
+        "Original": "<89><86><08><c0><88><04>You got\n\nZero part No.1!\n\n<81><80><86><05>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><04>Recu\n\nLa tête de Zero!\n\n<81><80><86><05>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><04>You got\n\nZero part No.1!\n\n<81><80><86><05>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Got Zero Part 2",
+        "Original": "<89><86><08><c0><88><04>You got\n\nZero part No.2!\n\n<81><80><86><05>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><04>Recu\n\nL'armure de Zero!\n\n<81><80><86><05>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><04>You got\n\nZero part No.2!\n\n<81><80><86><05>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Got Zero Part 3",
+        "Original": "<89><86><08><c0><88><04>You got\n\nZero part No.3!\n\n<81><80><86><05>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><04>Recu\n\nLes pieds de Zero!\n\n<81><80><86><05>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><04>You got\n\nZero part No.3!\n\n<81><80><86><05>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Sigma encounter #1",
+        "Original": "<8a><89><86><08><c2><88><03>(SIGMA)\n\nIt has been a while,\n\nMega Man X.\n\n<81><80><86><07><87><1e><88><05><c0>(MEGA MAN)\n\nWhat?! Sigma!!\n\n<81><80><86><05><87><<88><03><c2>(SIGMA)\n\nIt seems that the\n\nX-Hunters have\n\nfailed.\n\nBut don't worry,\n\n<81><80><86><0b><87><1e>I have arranged for\n\nsome new toys for\n\nyou to play with\n\n...\n\n<81><80><87>Z<86><09>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<8a><89><86><08><c2><88><03>(SIGMA)\n\nCa fait un bail,\n\nMega Man X.\n\n<81><80><86><07><87><1e><88><05><c0>(MEGA MAN)\n\nQuoi?! Sigma!!\n\n<81><80><86><05><87><<88><03><c2>(SIGMA)\n\nIl semblerait que les\n\nX-Hunters ait échoué. \n\nMais ne t'inquiète\n\npas,\n\n<81><80><86><0b><87><1e>J'ai fait en sorte\n\nque tu puisse\n\nt'amuser avec de\n\nnouveaux jouets\n\n...\n\n<81><80><87>Z<86><0b>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<8a><89><86><08><c2><88><03>(SIGMA)\n\nIt has been a while,\n\nMega Man X.\n\n<81><80><86><07><87><1e><88><05><c0>(MEGA MAN)\n\nWhat?! Sigma!!\n\n<81><80><86><05><87><<88><03><c2>(SIGMA)\n\nIt seems that the\n\nX-Hunters have\n\nfailed.\n\nBut don't worry,\n\n<81><80><86><0b><87><1e>I have arranged for\n\nsome new toys for\n\nyou to play with\n\n...\n\n<81><80><87>Z<86><09>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Sigma encounter #2",
+        "Original": "<89><86><08><c2><88><03><8b><02>(SIGMA)\n\nLook who I found\n\nwandering around\n\nMega Man!\n\n<81><80><86><09><87><1e><8b><02>My friend here has\n\na small problem with\n\nyou.\n\n<81><80><86><07><87><1e><8b><02>It seems that you\n\nlet him die and he's\n\nnot too happy about\n\nthat!\n\n<81><80><86><09><87><1e><8b><02>Now I think it is\n\ntime that he repays\n\nthe favor!\n\n<81><80><86><07>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c2><88><03><8b><02>(SIGMA)\n\nRegarde qui j'ai\n\ntrouvé errer ici\n\nMega Man!\n\n<81><80><86><09><87><1e><8b><02>Mon ami ici a un\n\npetit problème avec \n\ntoi.\n\n<81><80><86><07><87><1e><8b><02>Il semblerait que tu \n\nl'as laissé mourrir\n\net il n'est pas très\n\nheureux de ca!\n\n<81><80><86><09><87><1e><8b><02>Maintenant il est\n\ntemps qu'il te rendre\n\nla pareille!\n\n<81><80><86><07>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c2><88><03><8b><02>(SIGMA)\n\nLook who I found\n\nwandering around\n\nMega Man!\n\n<81><80><86><09><87><1e><8b><02>My friend here has\n\na small problem with\n\nyou.\n\n<81><80><86><07><87><1e><8b><02>It seems that you\n\nlet him die and he's\n\nnot too happy about\n\nthat!\n\n<81><80><86><09><87><1e><8b><02>Now I think it is\n\ntime that he repays\n\nthe favor!\n\n<81><80><86><07>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Zero distrupt Sigma",
+        "Original": "<89><86><08><c1><88><05><8b><01>(ZERO)\n\nSigma, you should\n\nhave studied the\n\nblueprints closer!\n\n<81><80><86><09><87><1e><8b><01>There is only one\n\nZero!\n\n<81><80><86><05><87><1e><88><03><c2><8b><02>(SIGMA)\n\nWait, Zero!\n\nI know your secret!\n\nYou were destined\n\nto follow me!\n\n<81><80><86><0b><87><1e><88><05><c1><8b><01>(ZERO)\n\nMaybe so, but I\n\nstill don't like\n\nyou!\n\n<81><80><86><09><87><1e><88><03><c2><8b><02>(SIGMA)\n\nFine.\n\nIf you will not\n\nfollow me, then\n\nI'll watch you die\n\n<81><80><86><0b><87><1e><88><03><8b><02>once again!\n\n<81><80><86><0b>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c1><88><05><8b><01>(ZERO)\n\nSigma, tu aurais dû\n\nétudier les plans de\n\nplus près!\n\n<81><80><86><09><87><1e><8b><01>Il y a un seul\n\nZero!\n\n<81><80><86><05><87><1e><88><03><c2><8b><02>(SIGMA)\n\nAttends, Zero!\n\nJe connais ton \n\nsecret! Tu était\n\ndestiné à me suivre!\n\n<81><80><86><0b><87><1e><88><05><c1><8b><01>(ZERO)\n\nPeut-être bien, mais\n\nje te déteste\n\ntoujours autant!\n\n<81><80><86><09><87><1e><88><03><c2><8b><02>(SIGMA)\n\nTrès bien.\n\nSi tu ne veux pas me\n\nsuivre, alors je te\n\nregarderais mourrir\n\n<81><80><86><0b><87><1e><88><03><8b><02>une nouvelle fois!\n\n<81><80><86><0b>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c1><88><05><8b><01>(ZERO)\n\nSigma, you should\n\nhave studied the\n\nblueprints closer!\n\n<81><80><86><09><87><1e><8b><01>There is only one\n\nZero!\n\n<81><80><86><05><87><1e><88><03><c2><8b><02>(SIGMA)\n\nWait, Zero!\n\nI know your secret!\n\nYou were destined\n\nto follow me!\n\n<81><80><86><0b><87><1e><88><05><c1><8b><01>(ZERO)\n\nMaybe so, but I\n\nstill don't like\n\nyou!\n\n<81><80><86><09><87><1e><88><03><c2><8b><02>(SIGMA)\n\nFine.\n\nIf you will not\n\nfollow me, then\n\nI'll watch you die\n\n<81><80><86><0b><87><1e><88><03><8b><02>once again!\n\n<81><80><86><0b>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "X and Zero chat before final boss",
+        "Original": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero!\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nSorry to keep you\n\nwaiting, Mega Man X.\n\nThe greetings will\n\nhave to wait.\n\n<81><80><86><0b><87><1e><8b><01>We've got to defeat\n\nall the\n\nMavericks including\n\nSigma!\n\n<81><80><86><09><87><1e><8b><01>I'll take out the\n\nmain computer,and\n\nyou follow Sigma.\n\nLet's go!\n\n<81><80><86><09>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero!\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nDésolé de l'attente,\n\nMega Man X.\n\nLes retrouvailles\n\ndevront attendre.\n\n<81><80><86><0b><87><1e><8b><01>Nous devons vaincre\n\ntous les Mavericks\n\nincluant Sigma!\n\n<81><80><86><07><87><1e><8b><01>Je vais détruire\n\nl'ordinateur central,\n\net toi suis Sigma.\n\nAllons-y!\n\n<81><80><86><09>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero!\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nSorry to keep you\n\nwaiting, Mega Man X.\n\nThe greetings will\n\nhave to wait.\n\n<81><80><86><0b><87><1e><8b><01>We've got to defeat\n\nall the\n\nMavericks including\n\nSigma!\n\n<81><80><86><09><87><1e><8b><01>I'll take out the\n\nmain computer,and\n\nyou follow Sigma.\n\nLet's go!\n\n<81><80><86><09>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "X and Zero chat when not all parts",
+        "Original": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero...\n\n<81><80><86><05><87><<c1><8b><01>(ZERO)\n\n<81><80><86><03><87><1e><c0><8b><03>(MEGA MAN)\n\nDo you remenber me..\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nYea... I guess so...\n\nSorry to cause you\n\nso much trouble.\n\n<81><80><86><09><87><1e><8b><01>X, you need to go\n\nafter Sigma!\n\nI'll try and\n\ndestroy the main\n\ncomputer!\n\n<81><80><86><0b><87><1e><c0><8b><03>(MEGA MAN)\n\nTake care of\n\nyourself, Zero.\n\nI don't have time\n\nto put you back\n\n<81><80><86><0b><87><1e>together again!\n\n<81><80><86><03><87><1e><c1><8b><01>(ZERO)\n\nI'll be ok.\n\nGet going,X!\n\n<81><80><86><07>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero...\n\n<81><80><86><05><87><<c1><8b><01>(ZERO)\n\n<81><80><86><03><87><1e><c0><8b><03>(MEGA MAN)\n\nEst-ce que tu te\n\nsouviens de moi...\n\n<81><80><86><07><87><1e><c1><8b><01>(ZERO)\n\nOuais.. Je crois...\n\nDésolé de t'avoir\n\ncausé autant de\n\nproblème.\n\n<81><80><86><0b><87><1e><8b><01>X, tu dois\n\npourchasser Sigma!\n\nJe vais essayer de\n\ndétruire l'ordinateur\n\ncentral!\n\n<81><80><86><0b><87><1e><c0><8b><03>(MEGA MAN)\n\nPrends soin de toi,\n\nZero. Je n'ai pas le\n\ntemps de te\n\nreconstituer \n\n<81><80><86><0b><87><1e>un autre fois!\n\n<81><80><86><03><87><1e><c1><8b><01>(ZERO)\n\nJe vais être ok.\n\nAllez, X!\n\n<81><80><86><07>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero...\n\n<81><80><86><05><87><<c1><8b><01>(ZERO)\n\n<81><80><86><03><87><1e><c0><8b><03>(MEGA MAN)\n\nDo you remenber me..\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nYea... I guess so...\n\nSorry to cause you\n\nso much trouble.\n\n<81><80><86><09><87><1e><8b><01>X, you need to go\n\nafter Sigma!\n\nI'll try and\n\ndestroy the main\n\ncomputer!\n\n<81><80><86><0b><87><1e><c0><8b><03>(MEGA MAN)\n\nTake care of\n\nyourself, Zero.\n\nI don't have time\n\nto put you back\n\n<81><80><86><0b><87><1e>together again!\n\n<81><80><86><03><87><1e><c1><8b><01>(ZERO)\n\nI'll be ok.\n\nGet going,X!\n\n<81><80><86><07>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Sigma final boss intro",
+        "Original": "<89><86><08><c0><88><03><8b><01>(SIGMA)\n\nYou are merely a\n\nbothersome insect,\n\nMega Man X!\n\n<81><80><86><09><87><1e>It is about time\n\nthat I crush you\n\nbeneath my heel!\n\n<81><80><86><07>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><03><8b><01>(SIGMA)\n\nTu est simplement un\n\ninsecte nuisible,\n\nMega Man X!\n\n<81><80><86><09><87><1e>Il est temps que\n\nje t'écrase sous\n\nmon talon!\n\n<81><80><86><07>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><03><8b><01>(SIGMA)\n\nYou are merely a\n\nbothersome insect,\n\nMega Man X!\n\n<81><80><86><09><87><1e>It is about time\n\nthat I crush you\n\nbeneath my heel!\n\n<81><80><86><07>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Sigma defeated",
+        "Original": "<89><86><08><c2><88><03>(SIGMA)\n\nMega Man X, I have\n\nlost to you\n\nagain...\n\n<81><80><86><09><87><1e>Each defeat only\n\nmakes me stronger\n\nand serves to bring\n\nyou closer to your\n\nultimate doom!\n\n<81><80><86><0b><87><1e>But, something is\n\nnot right.\n\nI... don't quite\n\nunderstand...\n\nWhy did Zero...\n\n<81><80><86><0b><87><1e>He is ... last...\n\nof the doctor's\n\ncreations...\n\n<81><80><86><07><87><1e><88><03>Arrrrrggggghhhhh....\n\n<81><80><86><03>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c2><88><03>(SIGMA)\n\nMega Man X, J'ai\n\nété vaincu un autre \n\nfois par toi...\n\n<81><80><86><09><87><1e>Chaque défaite me\n\nrend encore plus fort\n\net sert à te\n\nrapprocher de ton\n\ndestin funeste. \n\n<81><80><86><0b><87><1e>Mais, quelque chose\n\ncloche.\n\nJe..ne comprends pas\n\ntotalement...\n\nPourquoi Zero t'as...\n\n<81><80><86><0b><87><1e>Il est... dernière...\n\ncréation du\n\ndocteur...\n\n<81><80><86><07><87><1e><88><03>Arrrrrggggghhhhh....\n\n<81><80><86><03>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c2><88><03>(SIGMA)\n\nMega Man X, I have\n\nlost to you\n\nagain...\n\n<81><80><86><09><87><1e>Each defeat only\n\nmakes me stronger\n\nand serves to bring\n\nyou closer to your\n\nultimate doom!\n\n<81><80><86><0b><87><1e>But, something is\n\nnot right.\n\nI... don't quite\n\nunderstand...\n\nWhy did Zero...\n\n<81><80><86><0b><87><1e>He is ... last...\n\nof the doctor's\n\ncreations...\n\n<81><80><86><07><87><1e><88><03>Arrrrrggggghhhhh....\n\n<81><80><86><03>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "After 8 Boss All Zero Parts",
+        "Original": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nMega Man X! I've located\n\nThe X-Hunters base!\n\n<81><80><86><07><87><1e>It's at grid location 00.\n\nThat's right at the\n\nNorth Pole!\n\n<81><80><86><07><87><1e><c0><8b><01>(MEGA MAN)\n\nRoger, Dr. Cain! I'm on my\n\nway!\n\n<81><80><86><07><87><1e><c1><8b><02>(DR. CAIN)\n\nIt will take some more time\n\nto reactivate Zero...\n\n<81><80><86><07><87><1e>Slow them down\n\nMega Man X!\n\n<81><80><86><05>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nMega Man X! J'ai localisé\n\nla base des X-Hunters!\n\n<81><80><86><07><87><1e>C'est au quadrillage 00.\n\nC'est exactement au Pôle Nord!\n\n<81><80><86><05><87><1e><c0><8b><01>(MEGA MAN)\n\nBien recu, Dr. Cain! Je suis\n\nen route!\n\n<81><80><86><07><87><1e><c1><8b><02>(DR. CAIN)\n\nIl faudra encore un peu de\n\ntemps pour réactiver Zero...\n\n<81><80><86><07><87><1e>Ralentis-les\n\nMega Man X!\n\n<81><80><86><05>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nMega Man X! I've located\n\nThe X-Hunters base!\n\n<81><80><86><07><87><1e>It's at grid location 00.\n\nThat's right at the\n\nNorth Pole!\n\n<81><80><86><07><87><1e><c0><8b><01>(MEGA MAN)\n\nRoger, Dr. Cain! I'm on my\n\nway!\n\n<81><80><86><07><87><1e><c1><8b><02>(DR. CAIN)\n\nIt will take some more time\n\nto reactivate Zero...\n\n<81><80><86><07><87><1e>Slow them down\n\nMega Man X!\n\n<81><80><86><05>"
+            }
+          ]
+        },
+        "TextPreview": "00000000-0000-0000-0000-000000000000"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Agile second defeat",
+        "Original": "<89><86><08><c0><88><02>(AGILE)\n\nNO!! This cannot be!\n\n!! Master,avenge me!\n\n<81><80><86><07>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nNON!! C'est\n\nimpossible!!!\n\nMaître,vengez-moi!\n\n<81><80><86><09>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nNO!! This cannot be!\n\n!! Master,avenge me!\n\n<81><80><86><07>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Violen second defeat",
+        "Original": "<89><86><08><c0><88><08>(VIOLEN)\n\nWhat?! How could he\n\nhave overloaded my\n\ncircuits?!!\n\nArrrggghhh...\n\n<81><80><86><0b>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nQuoi?! Comment a-t-il\n\npu surcharger mes\n\ncircuits?!!\n\nArrrggghhh...\n\n<81><80><86><0b>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nWhat?! How could he\n\nhave overloaded my\n\ncircuits?!!\n\nArrrggghhh...\n\n<81><80><86><0b>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      },
+      {
+        "$type": "WendigoJaeger.TranslationTool.Data.ScriptEntry, LibWendigoJaegerTranslationTool",
+        "EntryName": "Serges second defeat",
+        "Original": "<89><86><08><c0><88><04>(SERGES)\n\nThis is impossible!\n\nThe prophecy must\n\nbe fulfilled!\n\n<81><80><86><09>",
+        "Comment": "",
+        "Translations": {
+          "$type": "WendigoJaeger.TranslationTool.Undo.UndoObservableCollection`1[[WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool]], LibWendigoJaegerTranslationTool",
+          "$values": [
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-FR",
+              "Value": "<89><86><08><c0><88><04>(SERGES)\n\nC'est impossible!\n\nLa prophétie doit\n\nêtre accompli!\n\n<81><80><86><09>",
+              "State": "Final"
+            },
+            {
+              "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
+              "Lang": "fr-CA",
+              "Value": "<89><86><08><c0><88><04>(SERGES)\n\nThis is impossible!\n\nThe prophecy must\n\nbe fulfilled!\n\n<81><80><86><09>"
+            }
+          ]
+        },
+        "TextPreview": "0c4442c6-d68a-4a2a-8eef-77d0d9aea280"
+      }
+    ]
+  }
+}
