@@ -857,7 +857,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x902b",
+        "EntryName": "OPTIONS MODE HEADER",
         "Original": "<PTR000><16>(eP<10><11><12><13><14><15><16><10><11><17><18>",
         "Comment": "",
         "Translations": {
@@ -888,7 +888,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><07>$<e5><08><ab><ac><ac><ac><ac><ac><aa><07>0<ec><08>MANETTE<08>d<f3><08><aa><ac><ac><ac><ac><ac><ac><ab>",
+              "Value": "<PTR000><08>$<e5><08><ab><ac><ac><ac><ac><ac><ac><aa><07>0<ed><08>MANETTE<07>d<f4><08><aa><ac><ac><ac><ac><ac><ab>",
               "State": "Final"
             },
             {
@@ -955,7 +955,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><07>,<e5><08><ab><ac><ac><ac><ac><ac><aa><07>4<ec><08>MANETTE<08>l<f3><08><aa><ac><ac><ac><ac><ac><ac><ab>",
+              "Value": "<PTR000><08>,<e5><08><ab><ac><ac><ac><ac><ac><ac><aa><07>4<ed><08>MANETTE<07>l<f4><08><aa><ac><ac><ac><ac><ac><ab>",
               "State": "Final"
             },
             {
@@ -1156,7 +1156,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04> )<09>SHOT"
+              "Value": "<PTR000><03> <27><09>TIR",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1178,7 +1179,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04>()<09>SHOT"
+              "Value": "<PTR000><03>(<27><09>TIR",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1200,7 +1202,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04> I<09>JUMP"
+              "Value": "<PTR000><04> <47><09>SAUT",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1222,7 +1225,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04>(I<09>JUMP"
+              "Value": "<PTR000><04>(<47><09>SAUT",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1244,7 +1248,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04> i<09>DASH"
+              "Value": "<PTR000><07> <67><09>GLISSER",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1266,7 +1271,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04>(i<09>DASH"
+              "Value": "<PTR000><07>(<67><09>GLISSER",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1288,7 +1294,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08> <87><09>SELECTùL"
+              "Value": "<PTR000><07> <87><09>CHOIXùL",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1310,7 +1317,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08>(<87><09>SELECTùL"
+              "Value": "<PTR000><07>(<87><09>CHOIXùL",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1332,7 +1340,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08> <a7><09>SELECTùR"
+              "Value": "<PTR000><07> <a7><09>CHOIXùR",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1354,7 +1363,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08>(<a7><09>SELECTùR"
+              "Value": "<PTR000><07>(<a7><09>CHOIXùR",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1376,7 +1386,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04> <c9><09>MENU"
+              "Value": "<PTR000><04> <c7><09>MENU",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1398,7 +1409,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04>(<c9><09>MENU"
+              "Value": "<PTR000><04>(<c7><09>MENU",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1421,7 +1433,7 @@
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
               "Value": "<PTR000><07> <4d><0b>QUITTER",
-              "State": "InProgress"
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1444,7 +1456,7 @@
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
               "Value": "<PTR000><07>(<4d><0b>QUITTER",
-              "State": "InProgress"
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
