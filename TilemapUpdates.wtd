@@ -599,7 +599,7 @@
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
               "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<15> <06><0a>SOUS LICENSE NINTENDO",
-              "State": "Review"
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -622,7 +622,7 @@
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
               "Value": "<PTR000><08> <cf><08>0123456",
-              "State": "Review"
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -845,7 +845,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><15>(<25><09>This Game Pack is not<15>(e<09>designed for use with<13>(<a5><09>your Super Nintendo<15>(<e5><09>Entertainment System.<05>(<25><0a>(PAL)"
+              "Value": "<PTR000><15>(<25><09>Cette cartouche n'est<0e>(e<09>pas concu pour<14>(<a5><09>votre Super Nintendo<15>(<e5><09>Entertainment System.<05>(<25><0a>(PAL)<00><00><00><00><00><00>"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
