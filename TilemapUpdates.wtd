@@ -1420,7 +1420,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04> N<0b>EXIT",
+              "Value": "<PTR000><07> <4d><0b>QUITTER",
               "State": "InProgress"
             },
             {
@@ -1443,7 +1443,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><04>(N<0b>EXIT",
+              "Value": "<PTR000><07>(<4d><0b>QUITTER",
               "State": "InProgress"
             },
             {
@@ -1466,7 +1466,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08> <ac><0a> STEREO ",
+              "Value": "<PTR000><06> <ad><0a>STEREO",
               "State": "Final"
             },
             {
@@ -1489,7 +1489,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08>(<ac><0a> STEREO ",
+              "Value": "<PTR000><06>(<ad><0a>STEREO",
               "State": "Final"
             },
             {
@@ -1512,8 +1512,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08>(<ac><0a><20><20>MONO<20><20>",
-              "State": "InProgress"
+              "Value": "<PTR000><06> <ad><0a><20>MONO<20>",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1535,8 +1535,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08>(<ac><0a><20><20>MONO<20><20>",
-              "State": "InProgress"
+              "Value": "<PTR000><06>(<ad><0a><20>MONO<20><00><00>",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
