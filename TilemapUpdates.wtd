@@ -598,7 +598,7 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSE DE NINTENDO ",
+              "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<15> <06><0a>SOUS LICENSE NINTENDO",
               "State": "Review"
             },
             {
@@ -621,7 +621,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><08> <cf><08>01234567"
+              "Value": "<PTR000><08> <cf><08>0123456",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1944,7 +1945,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><14><08><e6><08>THANKS FOR PLAYING!!"
+              "Value": "<PTR000><14><08><e6><08>MERCI D'AVOIR JOUE!!",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -1966,7 +1968,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><0c><0c><aa><09>PRESENTED BY"
+              "Value": "<PTR000><0c><0c><aa><09>PRESENTE PAR",
+              "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
