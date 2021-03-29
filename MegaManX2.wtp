@@ -175,7 +175,8 @@
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.LocalizedFilePathEntry, LibWendigoJaegerTranslationTool",
-              "Lang": "fr-CA"
+              "Lang": "fr-CA",
+              "Path": "script_qc.tbl"
             }
           ]
         },
