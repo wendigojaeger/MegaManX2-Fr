@@ -589,7 +589,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x8dec",
+        "EntryName": "Copyright Notice",
         "Original": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSED BY NINTENDO",
         "Comment": "",
         "Translations": {
@@ -598,7 +598,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSED BY NINTENDO"
+              "Value": "<PTR000><15> <86><09>  CAPCOM CO.,LTD.1994<01> <86><09>@<15> <c6><09>  CAPCOM USA,INC.1994<01> <c6><09>@<14> <06><0a>LICENSE DE NINTENDO ",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -721,7 +722,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x8ea7",
+        "EntryName": "Main Menu Selection 0",
         "Original": "<PTR000><0b>$<8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE",
         "Comment": "",
         "Translations": {
@@ -730,7 +731,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><0b>$<8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE"
+              "Value": "<PTR000><09>$<8a><0a>COMMENCER<0c> <ca><0a>MOT DE PASSE<0a> <0a><0b>OPTIONS   ",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -743,7 +745,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x8ed3",
+        "EntryName": "Main Menu Selection 1",
         "Original": "<PTR000><0b> <8a><0a>GAME  START<09>$<ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE",
         "Comment": "",
         "Translations": {
@@ -752,7 +754,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><0b> <8a><0a>GAME  START<09>$<ca><0a>PASS WORD<0b> <0a><0b>OPTION MODE"
+              "Value": "<PTR000><09> <8a><0a>COMMENCER<0c>$<ca><0a>MOT DE PASSE<0a> <0a><0b>OPTIONS   ",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -765,7 +768,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x8eff",
+        "EntryName": "Main Menu Selection 2",
         "Original": "<PTR000><0b> <8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b>$<0a><0b>OPTION MODE",
         "Comment": "",
         "Translations": {
@@ -774,7 +777,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><0b> <8a><0a>GAME  START<09> <ca><0a>PASS WORD<0b>$<0a><0b>OPTION MODE"
+              "Value": "<PTR000><09> <8a><0a>COMMENCER<0c> <ca><0a>MOT DE PASSE<0a>$<0a><0b>OPTIONS   ",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -875,7 +879,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x9060",
+        "EntryName": "Manette off",
         "Original": "<PTR000><06>$<e5><08><ab><ac><ac><ac><ac><aa><0a>0<eb><08>KEY CONFIG<06>d<f5><08><aa><ac><ac><ac><ac><ab>",
         "Comment": "",
         "Translations": {
@@ -884,7 +888,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><06>$<e5><08><ab><ac><ac><ac><ac><aa><0a>0<eb><08>KEY CONFIG<06>d<f5><08><aa><ac><ac><ac><ac><ab>"
+              "Value": "<PTR000><07>$<e5><08><ab><ac><ac><ac><ac><ac><aa><07>0<ec><08>MANETTE<08>d<f3><08><aa><ac><ac><ac><ac><ac><ac><ab>",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
@@ -941,7 +946,7 @@
       },
       {
         "$type": "WendigoJaeger.TranslationTool.Data.DataEntry, LibWendigoJaegerTranslationTool",
-        "EntryName": "Entry 0x90f3",
+        "EntryName": "Manette on",
         "Original": "<PTR000><06>,<e5><08><ab><ac><ac><ac><ac><aa><0a>4<eb><08>KEY CONFIG<06>l<f5><08><aa><ac><ac><ac><ac><ab>",
         "Comment": "",
         "Translations": {
@@ -950,7 +955,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<PTR000><06>,<e5><08><ab><ac><ac><ac><ac><aa><0a>4<eb><08>KEY CONFIG<06>l<f5><08><aa><ac><ac><ac><ac><ab>"
+              "Value": "<PTR000><07>,<e5><08><ab><ac><ac><ac><ac><ac><aa><07>4<ec><08>MANETTE<08>l<f3><08><aa><ac><ac><ac><ac><ac><ac><ab>",
+              "State": "Review"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
