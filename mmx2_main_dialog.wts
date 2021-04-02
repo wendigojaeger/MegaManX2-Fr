@@ -21,7 +21,7 @@
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
               "Value": "<89><a2><0a><c0>Ca fait 6 mois que (Sigma)\n\nyé mort pis que toute est\n\npresque pareil comme avant.\n\n<87><aa><86><06>La guerre des Maverick débuté \n\npar Sigma est feni, mais Mega\n\nMan X pis les nouveaux\n\n<87><aa><86><06>chasseurs de Maverick ont\n\npas encore pêté tous les\n\nsuiveux de Sigma.\n\n<87><aa><86><06>",
-              "State": "Review"
+              "State": "Final"
             }
           ]
         },
@@ -44,8 +44,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c0><88><01>Guidé par des infos recu\n\npar le Dr. Cain, Mega Man X\n\npis les chasseurs Maverick ont\n\n<87><aa><86><06>trouvé les derniers\n\nMaverick dans une shop\n\nde réploïdes abandonné.\n\n<87><aa><86><06>Là ils pense être\n\ncapable de décrisser les\n\nderniers résistants.\n\n<87><aa><86><04>",
-              "State": "Review"
+              "Value": "<89><a2><0a><c0><88><01>Guidé par des infos recu par\n\nl'Dr. Cain, Mega Man X pis\n\nles chasseurs Maverick ont\n\n<87><aa><86><06>trouvé les derniers Mavericks\n\ndans une shop de réploïdes\n\nabandonné.\n\n<87><aa><86><06>Là ils pense être capable\n\nde décrisser les derniers\n\nrésistants.\n\n<87><aa><86><04>",
+              "State": "Final"
             }
           ]
         },
@@ -68,7 +68,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><03><0b><c0><88><04>You got"
+              "Value": "<89><03><0b><c0><88><04>Recu",
+              "State": "Final"
             }
           ]
         },
@@ -91,7 +92,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Silk Shot<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Silk Shot<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -114,7 +116,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Strike Chain<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Strike Chain<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -137,7 +140,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Bubble Splash<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Bubble Splash<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -160,7 +164,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Speed Burner<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Speed Burner<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -183,7 +188,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Magnet Mine<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Magnet Mine<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -206,7 +212,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Crystal Hunter<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Crystal Hunter<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -229,7 +236,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Sonic Slicer<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Sonic Slicer<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -252,7 +260,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><0b><0b><c2><88><04>Spin Wheel<87><1e>"
+              "Value": "<89><0b><0b><c2><88><04>Spin Wheel<87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -275,7 +284,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nmain drive unit.\n\n<81><80><86><07><87><1e>With it you will be\n\nable to dash while\n\nin mid-air.\n\n<81><80><86><07><87><1e>Use it wisely,\n\nMega Man X.\n\n<81><80>"
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enweille\n\ndans capsule.\n\n<81><80><86><07><87><1e>C'te patente là\n\nva améliorer tes\n\nbottes.\n\n<81><80><86><07><87><1e>Avec ca, tu vas\n\npouvoir glisser dans\n\nles airs.\n\n<81><80><86><07><87><1e>Utilise ca ben\n\nsagement Mega Man X.\n\n<81><80>",
+              "State": "Final"
             }
           ]
         },
@@ -298,7 +308,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nradar optics.\n\n<81><80><86><07><87><1e>It uses some energy,\n\nbut with it you\n\nwill be able to see\n\nobjects that you\n\ncould not see before.\n\n<81><80><86><0b><87><1e>Good luck, Mega Man.\n\n<81><80>"
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enweille\n\ndans capsule.\n\n<81><80><86><07><87><1e>C'te patente là\n\nva modifier tes\n\nyeux aik un radar.\n\n<81><80><86><07><87><1e>C'pas grétis mais\n\nau moins tu vas voir\n\ndes affaires que\n\ntu voyais pas avant.\n\n<81><80><86><09><87><1e>Bonne chan, Mega Man.\n\n<81><80>",
+              "State": "Final"
             }
           ]
         },
@@ -321,7 +332,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nbody armor.\n\n<81><80><86><07><87><1e>With it you can\n\nabsorb damage and\n\ntransfer it into \n\nexplosive weapon\n\nenergy.\n\n<81><80>"
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enweille\n\ndans capsule.\n\n<81><80><86><07><87><1e>C'te patente là\n\nva modifier\n\nton armure.\n\n<81><80><86><07><87><1e>Avec ca t'absorbe\n\ndu dommage pis ca se\n\ntransforme en une\n\nénergie explosive.\n\n<81><80>",
+              "State": "Final"
             }
           ]
         },
@@ -344,7 +356,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enter\n\nthe capsule.\n\n<81><80><86><07><87><1e>This enhancement \n\nwill modify your\n\nX-Buster.\n\n<81><80><86><07><87><1e>With it you will\n\nbe able to charge\n\nenergy in both arms\n\nat once.\n\n<81><80><86><09><87><1e>This enables you to\n\nshoot a Double-Shot\n\nor to charge any\n\nweapon!\n\n<81><80>"
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nMega Man X, enweille\n\ndans capsule.\n\n<81><80><86><07><87><1e>C'te patente là\n\nva modifier ton\n\nX-Buster.\n\n<81><80><86><07><87><1e>Avec ca, ca va\n\ncharger de l'énergie\n\ndans les deux bras\n\nen même temps.\n\n<81><80><86><09><87><1e>Faque ca te permet\n\nde soit tirer un \n\ndouble shot ou de \n\ncharger n'importe\n\nquel arme.\n\n<81><80>",
+              "State": "Final"
             }
           ]
         },
@@ -367,8 +380,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c0><88><01>Personne se doutent que\n\nla vraie bataille va\n\ncommencer...\n\n<87><f0><87> ",
-              "State": "Review"
+              "Value": "<89><a2><0a><c0><88><01>Personne se doutent que\n\nla vraie guerre est sur le\n\npoint de commencer...\n\n<87><f0><87> ",
+              "State": "Final"
             }
           ]
         },
@@ -391,7 +404,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": ""
+              "Value": "",
+              "State": "Final"
             }
           ]
         },
@@ -414,7 +428,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c0><88><06>(SERGES)\n\nThis is their leader.\n\nHis name is Mega Man X.\n\n<81><80><86><07><87><1e><88><08><c1>(VIOLEN)\n\nThose who underestimated him\n\nare now nothing but scrap.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nWe won't make the same\n\nmistake.\n\n<81><80><86><07><87><1e>He is powerful, but he is\n\nblind to what is happening\n\naround him.\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nOur Mavericks will keep him\n\nbusy until we are ready.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nYes. How is the plan\n\nproceeding?\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nCollection is proceeding as\n\nscheduled.\n\n<81><80><86><07><87><1e>However, we are having\n\nproblems with the control\n\nchip.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nWe have little time.\n\n<81><80><86><05><87><1e><88><04><c2>We must finish construction\n\non schedule.\n\nWe must hurry...\n\n<81><80>"
+              "Value": "<89><a2><0a><c0><88><06>(SERGES)\n\nV'la leur chef.\n\nY s'appelle Mega Man X.\n\n<81><80><86><07><87><1e><88><08><c1>(VIOLEN)\n\nCeux qui l'ont sous-estimé\n\nsont juste d'la scrap asteur.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nOn fera pas la même erreur \n\nde débutant.\n\n<81><80><86><07><87><1e>Yé ben fort tsé, mais yé\n\naveugle sur ce qui s'passe\n\nà l'entour de lui.\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nNos Mavericks vont ben\n\nl'occuper en attendant.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nBen safe. Ca avance comment \n\nc'te plan là?\n\n<81><80><86><07><87><1e><88><06><c0>(SERGES)\n\nLa collecte avance comme \n\nprévu.\n\n<81><80><86><07><87><1e>Mais on a des p'tits\n\nproblèmes avec la chip de\n\ncontrôle.\n\n<81><80><86><07><87><1e><88><02><c2>(AGILE)\n\nC'pas l'temps d'niaiser.\n\n<81><80><86><05><87><1e><88><04><c2>On doit finir la construction\n\ndans les temps.\n\nEnweille déguédine..\n\n<81><80>",
+              "State": "Final"
             }
           ]
         },
@@ -437,7 +452,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c2><88><02>(AGILE)\n\nI see now why Sigma fell at\n\nthe hands of Mega Man X.\n\n<81><80><86><07><87><1e><88><02>He is quite formidable.\n\n<81><80><86><03><87><1e><88><06><c0>(SERGES)\n\nI am not sure our Mavericks\n\ncan hold him long enough.\n\n<81><80><86><07><87><<c0>We may have to intervene.\n\n<81><80><86><03><87><1e>"
+              "Value": "<89><a2><0a><c2><88><02>(AGILE)\n\nJ'comprends pourquoi Sigma\n\ns'est fait rincé par X.\n\n<81><80><86><07><87><1e><88><02>C'pas un tout-nu.\n\n<81><80><86><03><87><1e><88><06><c0>(SERGES)\n\nChu pu sûr que nos Mavericks\n\nvont survivre ben longtemps.\n\n<81><80><86><07><87><<c0>Va falloir s'en mêler.\n\n<81><80><86><03><87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -460,7 +476,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c0><88><04><8b><01>(MEGA MAN)\n\nDr. Cain! what happened?!\n\n<81><80><86><05><87><1e><c1><8b><02>(DR. CAIN)\n\nA group of Mavericks calling\n\nthemselves the (X-Hunters)\n\n<81><80><86><07><87><1e>have just contacted us...\n\n<81><80><86><03><87><1e><8b><ff><c2><88><07>(SERGES)\n\nGreetings. We have all of\n\nZero's parts.\n\n<81><80><86><07><87><1e><88><08>(VIOLEN)\n\nThey can be yours,\n\nif you can defeat us!\n\n<81><80><86><07><87><1e><88><02>(AGILE)\n\nWe look forward to meeting\n\nyou, X!\n\n<81><80><86><07><87><1e><88><05><8b><02><c1>(DR. CAIN)\n\nX, Zero's control chip is\n\nstill stored here.\n\n<81><80><86><07><87><1e>I doubt it is possible to\n\nresurrect him without it.\n\n<81><80><86><05><87><1e><8b><01><c0>(MEGA MAN)\n\nDr. Cain, I've got to get\n\nZero's parts back\n\n<81><80><86><07><87><1e>at any cost!\n\n<81><80><86><03><87><1e>"
+              "Value": "<89><a2><0a><c0><88><04><8b><01>(MEGA MAN)\n\nDr. Cain! Kossé qui s'passe?!\n\n<81><80><86><05><87><1e><c1><8b><02>(DR. CAIN)\n\nUn groupe de Mavericks qui\n\ns'appelle les (X-Hunters)\n\n<81><80><86><07><87><1e>nous ont appellé...\n\n<81><80><86><03><87><1e><8b><ff><c2><88><07>(SERGES)\n\nWassup. On a toute les pièces\n\nde Zero.\n\n<81><80><86><07><87><1e><88><08>(VIOLEN)\n\nIls peuvent être à toé si tu\n\npeux nous crisser la volée.\n\n<81><80><86><07><87><1e><88><02>(AGILE)\n\nOn a ben hâte de te\n\nrencontrer, X!\n\n<81><80><86><07><87><1e><88><05><8b><02><c1>(DR. CAIN)\n\nX, la chip de Zero est\n\nencore icitte.\n\n<81><80><86><07><87><1e>J'pense pas qui soit capable\n\nde le réssuciter sans ca.\n\n<81><80><86><05><87><1e><8b><01><c0>(MEGA MAN)\n\nDr. Cain, faut que j'aille\n\npogner les pièces de Zero\n\n<81><80><86><07><87><1e>peu importe le prix!\n\n<81><80><86><03><87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -483,7 +500,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c1><88><04>(ZERO)\n\nHere it is, X!\n\nSigma lies just\n\nahead!\n\n<81><80><86><09><87><1e>"
+              "Value": "<8a><89><86><08><c1><88><04>(ZERO)\n\nYé icitte, X!\n\nSigma yé juste là\n\nen avant!\n\n<81><80><86><09><87><1e>",
+              "State": "Final"
             }
           ]
         },
@@ -506,8 +524,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><aa><0a><c1><88><03>MEGA MAN X2\n\n<87><40><89><e6><0a><c1><88><03>contre les X-Hunters\n\n<87><f0>",
-              "State": "Review"
+              "Value": "<89><aa><0a><c1><88><03>MEGA MAN X2\n\n<87><40><89><e6><0a><c1><88><03>Contre les X-Hunters\n\n<87><f0>",
+              "State": "Final"
             }
           ]
         },
@@ -530,7 +548,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": ""
+              "Value": "",
+              "State": "Final"
             }
           ]
         },
@@ -553,7 +572,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nI'm sorry X...\n\nOne of the X-Hunters attacked\n\n<81><80><86><07><87><1e>the base and...\n\ntook all of Zero's parts\n\naway...\n\n<81><80><86><07><87><1e>They are going to rebuild\n\nZero at their base.\n\n<81><80><86><05><87><1e>I tracked them to location\n\n00 - The North Pole!\n\n<81><80><86><05><87><1e><c0><88><05><8b><01>(MEGA MAN)\n\nI can't let them tamper with\n\nhim Dr. Cain.\n\n<81><80><86><07><87><1e>I've got to save him!\n\n<81><80><86><03>"
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nJ'm'excuse X...\n\nY'a un des X-Hunters qui a\n\n<81><80><86><07><87><1e>attaqué la base pis..\n\ny'a volé toutes les pièces de\n\nZero...\n\n<81><80><86><07><87><1e>Ils vont remonter Zero\n\ndans leur base.\n\n<81><80><86><05><87><1e>Ils se sont cachés là\n\n00 - El pôle nord!\n\n<81><80><86><05><87><1e><c0><88><05><8b><01>(MEGA MAN)\n\nJ'peux pas les laisser faire\n\nDr. Cain.\n\n<81><80><86><07><87><1e>M'en va le sauver!\n\n<81><80><86><03>",
+              "State": "Final"
             }
           ]
         },
@@ -576,7 +596,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nI can try to reactivate Zero\n\nto help, but I need more time\n\n<81><80><86><07><87><1e>before you can reinstall his\n\ncontrol chip...\n\nTry to slow them down!\n\n<81><80><86><07><87><1e>Good luck!\n\n<81><80><86><03>"
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nM'a réanimer Zero pour\n\nt'aider, mais m'a avoir besoin\n\n<81><80><86><07><87><1e>d'un peu plus de temps\n\npour réinstaller sa chip...\n\nEssaye de les ralentir!\n\n<81><80><86><07><87><1e>Bonne chan!\n\n<81><80><86><03>",
+              "State": "Final"
             }
           ]
         },
@@ -599,7 +620,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nWow! You are so cool!\n\nI'm not worthy!!!\n\nI'm not worthy!!!\n\n<81><80><86><09><87><1e>Step inside for\n\na special surprise!\n\n<81><80><86><05>"
+              "Value": "<8a><89><86><08><c0><88><04>(LIGHT)\n\nWow! Té ben hot!\n\nT'es presque aussi\n\nhot qu'Astor le\n\nrobot!\n\n<81><80><86><0b><87><1e>Enweille icitte\n\ndans pour une tite\n\nsurprise!\n\n<81><80><86><07>",
+              "State": "Final"
             }
           ]
         },
@@ -622,7 +644,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nWelcome X.\n\nYour destruction is\n\nat hand!\n\n<81><80><86><09>"
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nBienvenue X. M'a te\n\ndétruire comme si\n\ny'avait pas de\n\nlendemain!\n\n<81><80><86><0b>",
+              "State": "Final"
             }
           ]
         },
@@ -645,7 +668,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nI may have failed,\n\nbut you will never\n\nlive to see Zero!\n\n<81><80><86><09>"
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nJ'ai peut-être perdu,\n\nmais tu seras jamais\n\nen vie pour revoir\n\nZero!\n\n<81><80><86><0b>",
+              "State": "Final"
             }
           ]
         },
@@ -668,7 +692,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nX, I shall crush\n\nyou like a tin can!\n\n<81><80><86><07>"
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nX, m'a t'écraser\n\ncomme une tite \n\ncanne!\n\n<81><80><86><09>",
+              "State": "Final"
             }
           ]
         },
@@ -691,7 +716,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nit cannot be!\n\nNow the unification\n\nis in jeopardy!\n\n<81><80><86><09>"
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nNon ca s'peut pas!\n\nMaintenant l'unifi-\n\ncation est dans\n\nmarde!\n\n<81><80><86><0b>",
+              "State": "Final"
             }
           ]
         },
@@ -714,7 +740,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nI am Serges and I\n\ncannot allow you to\n\nstop the \n\nunification!\n\n<81><80><86><0b><87><1e>It is for the good\n\nof all!\n\n<81><80><86><05>"
+              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nMoé c'est Serges pis\n\nm'a t'empêcher\n\nd'arrêter l'unifi-\n\ncation!\n\n<81><80><86><0b><87><1e>C'est pour le bien\n\nde tout l'monde!\n\n<81><80><86><05>",
+              "State": "Final"
             }
           ]
         },
@@ -737,7 +764,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nYou have merely\n\ndelayed,the\n\ninevitable. We will\n\nmeet again...\n\n<81><80><86><0b>"
+              "Value": "<89><86><08><c0><88><06>(SERGES)\n\nT'as juste ralenti\n\nl'inévitable. On va\n\nse revoir betôt...\n\n<81><80><86><09>",
+              "State": "Final"
             }
           ]
         },
@@ -760,7 +788,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8b><00><87>x<89>b<0b><c2><88><00> MEGA MAN X2 \n\n\n\n<86><04>    CAST      \n\n\n\n\n\n\n\n\n\n<86><0a><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><c0>Cannon Driver\n\n<86><02><80><80><86><02>Scriver\n\n<86><02><80><80><86><02>Bar Waying\n\n<86><02><80><80><86><02>Scrambler\n\n<86><02><80><80><86><02>Slidame\n\n<86><02><80><80><86><02>Mecha-Arm\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Gigantic\n<86><01>  Mechaniroid\n<86><01><c1><CF-0><c0><80><80><86><02><80><80><86><02>Croak Hopper\n\n<86><02><80><80><86><02>Weather\n<86><01>      Cristal\n\n<86><02><80><80><86><02>Sole Solar L\n\n<86><02><80><80><86><02>Sole Solar M\n\n<86><02><80><80><86><02><80><80><86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Probe\n<86><01>  8201-U type\n\n<86><02><80><80><86><02>Sky Farmer\n\n<86><02><80><80><86><02>Rightod 1\n<86><01>Sabottein 2\n\n<86><02><80><80><86><02>Hanged\n<86><01>      Reploid\n\n<86><02><80><80><86><02>Garakuta\n<86><01>        Robot\n\n<86><02><80><80><86><02>Old Robot\n\n<86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Paraloid S-38\n\n<86><02><80><80><86><02>Paraloid V-1\n\n<86><02><80><80><86><02>Paraloid R-5\n\n<86><02><80><80><86><02>Beetron\n\n<86><02><80><80><86><02>Barite Lastar\n\n<86><02><80><80><86><02>Morgun\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Blecker\n\n<86><02><80><80><86><02>Barrier\n<86><01>     Attacker\n\n<86><02><80><80><86><02>Installer\n\n<86><02><80><80><86><02>Chop Register\n\n<86><02><80><80><86><02>Raider\n<86><01>       Killer\n\n<86><02><80><80><86><02>Crash Roader\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Road Riders\n\n<86><02><80><80><86><02>Ride Chaser\n<86><01>ADU-T400turbo\n<86><01><c1><CHEVAL><c0><80><80><86><02><80><80><86><02>Batton Bone\n<86><01>       type G\n\n<86><02><80><80><86><02>Fishern\n\n<86><02><80><80><86><02>Sea-Canthller\n\n<86><02><80><80><86><02>Jelly Seeker\n<86><01><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Tubamail-S\n\n<86><02><80><80><86><02>Tubamail\n<86><01>    Generater\n\n<86><02><80><80><86><02>Tiranos\n\n<86><02><80><80><86><02>Switch type\n<86><01>     Elevator\n\n<86><02><80><80><86><02>Disk Boy 08\n\n<86><02><80><80><86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Aclanda\n\n<86><02><80><80><86><02>Ride loid-G\n\n<86><02><80><80><86><02>Ride Armor\n<86><01>type EG-2 cus\n<86><01><c1><RABBIT><c0><80><80><86><02><80><80><86><02>Refleczer\n\n<86><02><80><80><86><02>Magna Quartz\n\n<86><02><80><80><86><02>Savor Moon R\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><8b><01><87>x<89>Q<08><88><02><c0>Morph\nMoth\n\n<c3>POWER  3200rp\n\nSPEED  8800rp\n\n\n\n\n\n<c0>Wire\nSponge\n\n<c3>POWER  6400rp\n\nSPEED  4800rp\n\n<87><80><86><1b><89>Q<08><c0>Bubble\nCrab\n\n<c3>POWER  6000rp\n\nSPEED  4800rp\n\n\n\n\n\n<c0>Flame\nStag\n\n<c3>POWER  3600rp\n\nSPEED  7000rp\n\n<87><80><86><1b><89>Q<08><c0>Magna\nCentipede\n\n<c3>POWER  2900rp\n\nSPEED  8880rp\n\n\n\n\n\n<c0>Crystal\nSnail\n\n<c3>POWER  6800rp\n\nSPEED   500rp\n\n<87><80><86><1b><89>Q<08><c0>Overdrive\nOstrich\n\n<c3>POWER  3800rp\n\nSPEED  9900rp\n\n\n\n\n\n<c0>Wheel\nGator\n\n<c3>POWER  9800rp\n\nSPEED  1800rp\n\n<87><80><86><1b><89>Q<08><c0>AGILE\n\n\n<c3>POWER  9800rp\n\nSPEED 17800rp\n\n\n\n\n\n<c0>SERGES\n\n\n<c3>POWER 10300rp\n\nSPEED 12300rp\n\n<87><80><86><1b><89>Q<08><c0>VIOLEN\n\n\n<c3>POWER 18400rp\n\nSPEED  6200rp\n\n\n\n\n\n<c0>NEO SIGMA\n\n\n<c3>POWER 18500rp\n\nSPEED 18500rp\n\n<87><80><86><1b><89>Q<08><c0>ZERO\n\n\n<c3>POWER  ????rp\n\nSPEED  ????rp\n\n\n\n\n\n<c1><88><08>AND YOU AS<87>0\n\n<88><03><c0>MEGA MAN <c2>X\n\n<c3>POWER  ????rp\n\nSPEED  ????rp\n\n<87><d0><86><1b>"
+              "Value": "<8b><00><87>x<89>b<0b><c2><88><00> MEGA MAN X2 \n\n\n\n<86><04> DISTRIBUTION \n\n\n\n\n\n\n\n\n\n<86><0a><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><c0>Cannon Driver\n\n<86><02><80><80><86><02>Scriver\n\n<86><02><80><80><86><02>Bar Waying\n\n<86><02><80><80><86><02>Scrambler\n\n<86><02><80><80><86><02>Slidame\n\n<86><02><80><80><86><02>Mecha-Arm\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Gigantic\n<86><01>  Mechaniroid\n<86><01><c1><CF-0><c0><80><80><86><02><80><80><86><02>Croak Hopper\n\n<86><02><80><80><86><02>Weather\n<86><01>      Cristal\n\n<86><02><80><80><86><02>Sole Solar L\n\n<86><02><80><80><86><02>Sole Solar M\n\n<86><02><80><80><86><02><80><80><86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Probe\n<86><01>  8201-U type\n\n<86><02><80><80><86><02>Sky Farmer\n\n<86><02><80><80><86><02>Rightod 1\n<86><01>Sabottein 2\n\n<86><02><80><80><86><02>Hanged\n<86><01>      Reploid\n\n<86><02><80><80><86><02>Garakuta\n<86><01>        Robot\n\n<86><02><80><80><86><02>Old Robot\n\n<86><02><80><86><01><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Paraloid S-38\n\n<86><02><80><80><86><02>Paraloid V-1\n\n<86><02><80><80><86><02>Paraloid R-5\n\n<86><02><80><80><86><02>Beetron\n\n<86><02><80><80><86><02>Barite Lastar\n\n<86><02><80><80><86><02>Morgun\n\n<86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Blecker\n\n<86><02><80><80><86><02>Barrier\n<86><01>     Attacker\n\n<86><02><80><80><86><02>Installer\n\n<86><02><80><80><86><02>Chop Register\n\n<86><02><80><80><86><02>Raider\n<86><01>       Killer\n\n<86><02><80><80><86><02>Crash Roader\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Road Riders\n\n<86><02><80><80><86><02>Ride Chaser\n<86><01>ADU-T400turbo\n<86><01><c1><CHEVAL><c0><80><80><86><02><80><80><86><02>Batton Bone\n<86><01>       type G\n\n<86><02><80><80><86><02>Fishern\n\n<86><02><80><80><86><02>Sea-Canthller\n\n<86><02><80><80><86><02>Jelly Seeker\n<86><01><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Tubamail-S\n\n<86><02><80><80><86><02>Tubamail\n<86><01>    Generater\n\n<86><02><80><80><86><02>Tiranos\n\n<86><02><80><80><86><02>Switch type\n<86><01>     Elevator\n\n<86><02><80><80><86><02>Disk Boy 08\n\n<86><02><80><80><86><02><80><80><86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02>Aclanda\n\n<86><02><80><80><86><02>Ride loid-G\n\n<86><02><80><80><86><02>Ride Armor\n<86><01>type EG-2 cus\n<86><01><c1><RABBIT><c0><80><80><86><02><80><80><86><02>Refleczer\n\n<86><02><80><80><86><02>Magna Quartz\n\n<86><02><80><80><86><02>Savor Moon R\n\n<86><02><80><80><86><02><87><80><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><80><80><86><02><8b><01><87>x<89>Q<08><88><02><c0>Morph\nMoth\n\n<c3>FORCE    3200rp\n\nVITESSE  8800rp\n\n\n\n\n\n<c0>Wire\nSponge\n\n<c3>FORCE    6400rp\n\nVITESSE  4800rp\n\n<87><80><86><1b><89>Q<08><c0>Bubble\nCrab\n\n<c3>FORCE    6000rp\n\nVITESSE  4800rp\n\n\n\n\n\n<c0>Flame\nStag\n\n<c3>FORCE    3600rp\n\nVITESSE  7000rp\n\n<87><80><86><1b><89>Q<08><c0>Magna\nCentipede\n\n<c3>FORCE    2900rp\n\nVITESSE  8880rp\n\n\n\n\n\n<c0>Crystal\nSnail\n\n<c3>FORCE    6800rp\n\nVITESSE   500rp\n\n<87><80><86><1b><89>Q<08><c0>Overdrive\nOstrich\n\n<c3>FORCE    3800rp\n\nVITESSE  9900rp\n\n\n\n\n\n<c0>Wheel\nGator\n\n<c3>FORCE    9800rp\n\nVITESSE  1800rp\n\n<87><80><86><1b><89>Q<08><c0>AGILE\n\n\n<c3>FORCE    9800rp\n\nVITESSE 17800rp\n\n\n\n\n\n<c0>SERGES\n\n\n<c3>FORCE   10300rp\n\nVITESSE 12300rp\n\n<87><80><86><1b><89>Q<08><c0>VIOLEN\n\n\n<c3>FORCE   18400rp\n\nVITESSE  6200rp\n\n\n\n\n\n<c0>NEO SIGMA\n\n\n<c3>FORCE   18500rp\n\nVITESSE 18500rp\n\n<87><80><86><1b><89>Q<08><c0>ZERO\n\n\n<c3>FORCE    ????rp\n\nVITESSE  ????rp\n\n\n\n\n\n<c1><88><08>PIS TOE EN<87>0\n\n<88><03><c0>MEGA MAN <c2>X\n\n<c3>FORCE    ????rp\n\nVITESSE  ????rp\n\n<87><d0><86><1b>",
+              "State": "Final"
             }
           ]
         },
@@ -777,13 +806,14 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-FR",
-              "Value": "<89>b<0b><c0><88><00><80><86><01>Rejoins par son ami Zero,\n\n<86><02>Mega Man X contemple\n\n<86><02>la mer.\n\n\n\n<86><04><80><80><80><86><03>Sigma a subi une seconde\n\n<86><02>défaite, mais X se demande si\n\n<86><02>le combat s'arrêtera.\n\n\n\n<86><04><80><80><80><86><03>Est-ce qu le rêve du Dr. Light\n\n<86><02>d'un monde où les réploïdes et\n\n<86><02>les humains vivre en harmonie\n\n<86><02>n'était qu'une utopie?\n\n\n\n<86><04><80><80><80><86><03>Le prix de la paix est souvent\n\n<86><02>élevé, X se dit.\n\n\n\n<86><04><80><80><80><86><03>Qui ou quoi doit être\n\n<86><02>sacrifié pour que cela\n\n<86><02>devienne réalité?\n\n\n\n<86><04><80><80><80><86><03>Et lorsque le temps viendra,\n\n<86><02>serait-t-il prêt à le faire?\n\n\n\n<86><04><80><80><80><86><03>Le futur contient les\n\n<86><02>réponses ou...\n\n<86><02><86><0f>",
+              "Value": "<89>b<0b><c0><88><00><80><86><01>Rejoins par son ami Zero,\n\n<86><02>Mega Man X contemple\n\n<86><02>la mer.\n\n\n\n<86><04><80><80><80><86><03>Sigma a subi une seconde\n\n<86><02>défaite, mais X se demande si\n\n<86><02>le combat s'arrêtera.\n\n\n\n<86><04><80><80><80><86><03>Est-ce que le rêve du Dr.Light\n\n<86><02>d'un monde où les réploïdes et\n\n<86><02>les humains vivre en harmonie\n\n<86><02>n'était qu'une utopie?\n\n\n\n<86><04><80><80><80><86><03>Le prix de la paix est souvent\n\n<86><02>élevé, X se dit.\n\n\n\n<86><04><80><80><80><86><03>Qui ou quoi doit être\n\n<86><02>sacrifié pour que cela\n\n<86><02>devienne réalité?\n\n\n\n<86><04><80><80><80><86><03>Et lorsque le temps viendra,\n\n<86><02>serait-t-il prêt à le faire?\n\n\n\n<86><04><80><80><80><86><03>Le futur contient les\n\n<86><02>réponses ou...\n\n<86><02><86><0f>",
               "State": "Final"
             },
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>b<0b><c0><88><00><80><86><01>Joined by his friend Zero,\n\n<86><02>Mega Man X gazes out over \n\n<86><02>the sea.\n\n\n\n<86><04><80><80><80><86><03>Sigma has once again been\n\n<86><02>destroyed, but X wonders if\n\n<86><02>the fighting will truly end.\n\n\n\n<86><04><80><80><80><86><03>Was Dr. Light's dream of a\n\n<86><02>world in which reploids and\n\n<86><02>humans lived together in\n\n<86><02>peace merely a dream?\n\n\n\n<86><04><80><80><80><86><03>The price of peace is often\n\n<86><02>high, X thinks to himself.\n\n\n\n<86><04><80><80><80><86><03>Who or what must be\n\n<86><02>sacrificed for it to become\n\n<86><02>reality?\n\n\n\n<86><04><80><80><80><86><03>And when the time comes,\n\n<86><02>will he be able to do it?\n\n\n\n<86><04><80><80><80><86><03>The future holds the answers\n\n<86><02>or...\n\n<86><02><86><0f>"
+              "Value": "<89>b<0b><c0><88><00><80><86><01>Rejoins par son chum Zero,\n\n<86><02>Mega Man X r'garde\n\n<86><02>la mer.\n\n\n\n<86><04><80><80><80><86><03>Sigma y'a été defait une autre\n\n<86><02>fois, mais X se demande si\n\n<86><02>le combat va arrêter un jour.\n\n\n\n<86><04><80><80><80><86><03>Est-ce que l'rêve du Dr. Light\n\n<86><02>d'un monde où les réploïdes et\n\n<86><02>les humains vivre en paix\n\n<86><02>c'était que de la bullshit?\n\n\n\n<86><04><80><80><80><86><03>Le prix d'la paix yé souvent\n\n<86><02>élevé, X se dit.\n\n\n\n<86><04><80><80><80><86><03>Qui ou quoi doit être\n\n<86><02>sacrifié pour que ca\n\n<86><02>devienne réalité?\n\n\n\n<86><04><80><80><80><86><03>Pis quand ca va arriver\n\n<86><02>il va tu le faire?\n\n\n\n<86><04><80><80><80><86><03>Seul le futur contient les\n\n<86><02>réponses ou bedon...\n\n<86><02><86><0f>",
+              "State": "Final"
             }
           ]
         },
@@ -806,7 +836,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": ""
+              "Value": "",
+              "State": "Final"
             }
           ]
         },
@@ -829,7 +860,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": ""
+              "Value": "",
+              "State": "Final"
             }
           ]
         },
@@ -852,7 +884,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>K<09><c0><88><02>Robot<00>Junkyard\n\n<83><0c>Stage\n\nBoss:\n\nMorph<00>Moth"
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Cours<00>a<00>scrap<00>robot\n\nBoss:\n\nMorph<00>Moth",
+              "State": "Final"
             }
           ]
         },
@@ -875,7 +908,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>K<09><c0><88><02>Weather<00>Control\n\n<83><0c>Stage\n\nBoss:\n\nWire<00>Sponge"
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Controle<00>Meteo\n\nBoss:\n\nWire<00>Sponge",
+              "State": "Final"
             }
           ]
         },
@@ -898,7 +932,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>K<09><c0><88><02>Deep-Sea<00>Base\n\n<83><0c>Stage\n\nBoss:\n\nBubble<00>Crab"
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Base<00>dans<00>la<00>mer\n\nBoss:\n\nBubble<00>Crab",
+              "State": "Final"
             }
           ]
         },
@@ -921,7 +956,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>K<09><c0><88><02>Volcanic<00>Zone\n\n<83><0c>Stage\n\nBoss:\n\nFlame<00>Stag"
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Dans<00>un<00>volcan\n\nBoss:\n\nFlame<00>Stag",
+              "State": "Final"
             }
           ]
         },
@@ -944,7 +980,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>K<09><c0><88><02>Central<00>Computer\n\n<83><0c>Stage\n\nBoss:\n\nMagna<00>Centipede"
+              "Value": "<89>K<09><c0><88><02>Niveau:\n\n<88><02>Ordinateur<00>Central\n\nBoss:\n\nMagna<00>Centipede",
+              "State": "Final"
             }
           ]
         },
@@ -967,7 +1004,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>B<09><c0><88><02>Energen<00>Crystal\n\n<83><0c>Stage\n\nBoss:\n\nCrystal<00>Snail"
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>Crystal<00>Energen\n\nBoss:\n\nCrystal<00>Snail",
+              "State": "Final"
             }
           ]
         },
@@ -990,7 +1028,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>B<09><c0><88><02>Desert<00>Base\n\n<83><0c>Stage\n\nBoss:\n\nOverdrive<00>Ostrich"
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>Base<00>dans<00>le<00>desert\n\nBoss:\n\nOverdrive<00>Ostrich",
+              "State": "Final"
             }
           ]
         },
@@ -1013,7 +1052,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>B<09><c0><88><02>Dinosaur<00>Tank\n\n<83><0c>Stage\n\nBoss:\n\nWheel<00>Gator"
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>Tank<00>dinosaure\n\nBoss:\n\nWheel<00>Gator",
+              "State": "Final"
             }
           ]
         },
@@ -1036,7 +1076,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89>B<09><c0><88><02><00>X-Hunter\n\n<83><05>Stage\n\nBoss:\n\n??????????"
+              "Value": "<89>B<09><c0><88><02>Niveau:\n\n<88><02>X-Hunter\n\nBoss:\n\n??????????",
+              "State": "Final"
             }
           ]
         },
@@ -1059,7 +1100,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><04>You got\n\nZero part No.1!\n\n<81><80><86><05>"
+              "Value": "<89><86><08><c0><88><04>Recu\n\nLa tête de Zero!\n\n<81><80><86><05>",
+              "State": "Final"
             }
           ]
         },
@@ -1082,7 +1124,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><04>You got\n\nZero part No.2!\n\n<81><80><86><05>"
+              "Value": "<89><86><08><c0><88><04>Recu\n\nL'armure de Zero!\n\n<81><80><86><05>",
+              "State": "Final"
             }
           ]
         },
@@ -1105,7 +1148,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><04>You got\n\nZero part No.3!\n\n<81><80><86><05>"
+              "Value": "<89><86><08><c0><88><04>Recu\n\nLes pieds de Zero!\n\n<81><80><86><05>",
+              "State": "Final"
             }
           ]
         },
@@ -1128,7 +1172,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<8a><89><86><08><c2><88><03>(SIGMA)\n\nIt has been a while,\n\nMega Man X.\n\n<81><80><86><07><87><1e><88><05><c0>(MEGA MAN)\n\nWhat?! Sigma!!\n\n<81><80><86><05><87><<88><03><c2>(SIGMA)\n\nIt seems that the\n\nX-Hunters have\n\nfailed.\n\nBut don't worry,\n\n<81><80><86><0b><87><1e>I have arranged for\n\nsome new toys for\n\nyou to play with\n\n...\n\n<81><80><87>Z<86><09>"
+              "Value": "<8a><89><86><08><c2><88><03>(SIGMA)\n\nCa fait longtemps,\n\nMega Man X.\n\n<81><80><86><07><87><1e><88><05><c0>(MEGA MAN)\n\nKessé?! Sigma!!\n\n<81><80><86><05><87><<88><03><c2>(SIGMA)\n\nCa l'air que les\n\nX-Hunters ont\n\néchoué.\n\nMais t'inquiète,\n\n<81><80><86><0b><87><1e>j't'ai préparé des\n\nnouvelles bebelles\n\navec lequelle\n\nt'amuser...\n\n<81><80><87>Z<86><09>",
+              "State": "Final"
             }
           ]
         },
@@ -1151,7 +1196,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c2><88><03><8b><02>(SIGMA)\n\nLook who I found\n\nwandering around\n\nMega Man!\n\n<81><80><86><09><87><1e><8b><02>My friend here has\n\na small problem with\n\nyou.\n\n<81><80><86><07><87><1e><8b><02>It seems that you\n\nlet him die and he's\n\nnot too happy about\n\nthat!\n\n<81><80><86><09><87><1e><8b><02>Now I think it is\n\ntime that he repays\n\nthe favor!\n\n<81><80><86><07>"
+              "Value": "<89><86><08><c2><88><03><8b><02>(SIGMA)\n\nR'garde qui j'ai\n\ntrouvé icitte\n\nMega Man!\n\n<81><80><86><09><87><1e><8b><02>Mon chum icitte a\n\nun p'tit problème\n\navec toé.\n\n<81><80><86><07><87><1e><8b><02>Ca l'air que tu\n\nl'as laisser\n\nmourrir pis yé pas\n\nmal en criss.\n\n<81><80><86><09><87><1e><8b><02>Pense que yé temps\n\nqui te rendre la\n\npareille!\n\n<81><80><86><07>",
+              "State": "Final"
             }
           ]
         },
@@ -1174,7 +1220,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c1><88><05><8b><01>(ZERO)\n\nSigma, you should\n\nhave studied the\n\nblueprints closer!\n\n<81><80><86><09><87><1e><8b><01>There is only one\n\nZero!\n\n<81><80><86><05><87><1e><88><03><c2><8b><02>(SIGMA)\n\nWait, Zero!\n\nI know your secret!\n\nYou were destined\n\nto follow me!\n\n<81><80><86><0b><87><1e><88><05><c1><8b><01>(ZERO)\n\nMaybe so, but I\n\nstill don't like\n\nyou!\n\n<81><80><86><09><87><1e><88><03><c2><8b><02>(SIGMA)\n\nFine.\n\nIf you will not\n\nfollow me, then\n\nI'll watch you die\n\n<81><80><86><0b><87><1e><88><03><8b><02>once again!\n\n<81><80><86><0b>"
+              "Value": "<89><86><08><c1><88><05><8b><01>(ZERO)\n\nSigma, t'aurait dû\n\nlire les plans de\n\nplus proche!\n\n<81><80><86><09><87><1e><8b><01>Y'a un seul Zero!\n\n<81><80><86><03><87><1e><88><03><c2><8b><02>(SIGMA)\n\nWo minute, Zero!\n\nJ'connais ton secret!\n\nTé sensé me suivre!\n\n<81><80><86><09><87><1e><88><05><c1><8b><01>(ZERO)\n\nCa s'peut mais moé\n\nca m'empêche pas de\n\nt'haïr la face!\n\n<81><80><86><09><87><1e><88><03><c2><8b><02>(SIGMA)\n\nAh ouin? Ben si tu\n\nveux pas m'suivre,\n\nben je vais te\n\nregarder mourrir\n\n<81><80><86><0b><87><1e><88><03><8b><02>encore une fois!\n\n<81><80><86><0b>",
+              "State": "Final"
             }
           ]
         },
@@ -1197,7 +1244,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero!\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nSorry to keep you\n\nwaiting, Mega Man X.\n\nThe greetings will\n\nhave to wait.\n\n<81><80><86><0b><87><1e><8b><01>We've got to defeat\n\nall the\n\nMavericks including\n\nSigma!\n\n<81><80><86><09><87><1e><8b><01>I'll take out the\n\nmain computer,and\n\nyou follow Sigma.\n\nLet's go!\n\n<81><80><86><09>"
+              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero!\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nDésolé de d'avoir \n\nfait attendre, X.\n\nLes retrouvailles\n\nvont attendre.\n\n<81><80><86><0b><87><1e><8b><01>On doit pêter toutes\n\nles Mavericks pis\n\nSigma!\n\n<81><80><86><09><87><1e><8b><01>M'a détruire l'ordi\n\ncentrale, pis toé\n\nsuit Sigma.\n\nGo go go!\n\n<81><80><86><09>",
+              "State": "Final"
             }
           ]
         },
@@ -1220,7 +1268,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero...\n\n<81><80><86><05><87><<c1><8b><01>(ZERO)\n\n<81><80><86><03><87><1e><c0><8b><03>(MEGA MAN)\n\nDo you remenber me..\n\n<81><80><86><05><87><1e><c1><8b><01>(ZERO)\n\nYea... I guess so...\n\nSorry to cause you\n\nso much trouble.\n\n<81><80><86><09><87><1e><8b><01>X, you need to go\n\nafter Sigma!\n\nI'll try and\n\ndestroy the main\n\ncomputer!\n\n<81><80><86><0b><87><1e><c0><8b><03>(MEGA MAN)\n\nTake care of\n\nyourself, Zero.\n\nI don't have time\n\nto put you back\n\n<81><80><86><0b><87><1e>together again!\n\n<81><80><86><03><87><1e><c1><8b><01>(ZERO)\n\nI'll be ok.\n\nGet going,X!\n\n<81><80><86><07>"
+              "Value": "<89><86><08><c0><88><05>(MEGA MAN)\n\nZero...\n\n<81><80><86><05><87><<c1><8b><01>(ZERO)\n\n<81><80><86><03><87><1e><c0><8b><03>(MEGA MAN)\n\nTe souvient-tu de\n\nmoé?\n\n<81><80><86><07><87><1e><c1><8b><01>(ZERO)\n\nOuin...j'pense ben...\n\nDésolé de t'avoir\n\ncausé autant de \n\ntrouble.\n\n<81><80><86><0b><87><1e><8b><01>X, tu dois aller \n\npêter Sigma! Moé,m'a\n\naller pêter l'ordi\n\ncentrale!\n\n<81><80><86><09><87><1e><c0><8b><03>(MEGA MAN)\n\nFait attention, Zero.\n\nJ'ai pas l'temps\n\nde te remonter\n\nun autre fois.\n\n<81><80><86><0b><87><1e><c1><8b><01>(ZERO)\n\nJ'devrais être\n\ncorrect. Enweille, \n\nvas-y X!\n\n<81><80><86><09>",
+              "State": "Final"
             }
           ]
         },
@@ -1243,7 +1292,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><03><8b><01>(SIGMA)\n\nYou are merely a\n\nbothersome insect,\n\nMega Man X!\n\n<81><80><86><09><87><1e>It is about time\n\nthat I crush you\n\nbeneath my heel!\n\n<81><80><86><07>"
+              "Value": "<89><86><08><c0><88><03><8b><01>(SIGMA)\n\nTé juste un maudit\n\ninsecte gossant,\n\nMega Man X!\n\n<81><80><86><09><87><1e>Yé a peu près temps\n\nque je t'écrase\n\nsous l'talon!\n\n<81><80><86><07>",
+              "State": "Final"
             }
           ]
         },
@@ -1266,7 +1316,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c2><88><03>(SIGMA)\n\nMega Man X, I have\n\nlost to you\n\nagain...\n\n<81><80><86><09><87><1e>Each defeat only\n\nmakes me stronger\n\nand serves to bring\n\nyou closer to your\n\nultimate doom!\n\n<81><80><86><0b><87><1e>But, something is\n\nnot right.\n\nI... don't quite\n\nunderstand...\n\nWhy did Zero...\n\n<81><80><86><0b><87><1e>He is ... last...\n\nof the doctor's\n\ncreations...\n\n<81><80><86><07><87><1e><88><03>Arrrrrggggghhhhh....\n\n<81><80><86><03>"
+              "Value": "<89><86><08><c2><88><03>(SIGMA)\n\nMega Man X, j'peux\n\npas croire que j'ai\n\nencore perdu...\n\n<81><80><86><09><87><1e>Chaque défaite me\n\nrends plus fort pis\n\nsert à te raprocher\n\nde ta mort!\n\n<81><80><86><09><87><1e>Mais, y'a un affaire\n\nque je ne catch pas.\n\nPourquoi Zero y'a...\n\n<81><80><86><07><87><1e>Yé la...dernière...\n\ncréation du docteur\n\n...\n\n<81><80><86><07><87><1e><88><03>Arrrrrggggghhhhh....\n\n<81><80><86><03>",
+              "State": "Final"
             }
           ]
         },
@@ -1289,7 +1340,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nMega Man X! I've located\n\nThe X-Hunters base!\n\n<81><80><86><07><87><1e>It's at grid location 00.\n\nThat's right at the\n\nNorth Pole!\n\n<81><80><86><07><87><1e><c0><8b><01>(MEGA MAN)\n\nRoger, Dr. Cain! I'm on my\n\nway!\n\n<81><80><86><07><87><1e><c1><8b><02>(DR. CAIN)\n\nIt will take some more time\n\nto reactivate Zero...\n\n<81><80><86><07><87><1e>Slow them down\n\nMega Man X!\n\n<81><80><86><05>"
+              "Value": "<89><a2><0a><c1><88><04><8b><02>(DR. CAIN)\n\nMega Man X! J'ai trouvé la\n\nbase des X-Hunters!\n\n<81><80><86><07><87><1e>C'ta à la position 00.\n\nBen kin, c'est ben au\n\nPôle Nord!\n\n<81><80><86><07><87><1e><c0><8b><01>(MEGA MAN)\n\nBen recu, Dr. Cain! Chu \n\nen route!\n\n<81><80><86><07><87><1e><c1><8b><02>(DR. CAIN)\n\nM'a encore avoir besoin de\n\ntemps pour réactiver Zero...\n\n<81><80><86><07><87><1e>Ralentis-les\n\nMega Man X!\n\n<81><80><86><05>",
+              "State": "Final"
             }
           ]
         },
@@ -1312,7 +1364,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nNO!! This cannot be!\n\n!! Master,avenge me!\n\n<81><80><86><07>"
+              "Value": "<89><86><08><c0><88><02>(AGILE)\n\nNON!! Ca s'peut pas!\n\n!! Maître,venge moé!\n\n<81><80><86><07>",
+              "State": "Final"
             }
           ]
         },
@@ -1335,7 +1388,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nWhat?! How could he\n\nhave overloaded my\n\ncircuits?!!\n\nArrrggghhh...\n\n<81><80><86><0b>"
+              "Value": "<89><86><08><c0><88><08>(VIOLEN)\n\nQuoi?! Comment t'as\n\npu pêter mes\n\ncircuits?!!\n\nArrrggghhh...\n\n<81><80><86><0b>",
+              "State": "Final"
             }
           ]
         },
@@ -1358,7 +1412,8 @@
             {
               "$type": "WendigoJaeger.TranslationTool.Data.TranslationEntry, LibWendigoJaegerTranslationTool",
               "Lang": "fr-CA",
-              "Value": "<89><86><08><c0><88><04>(SERGES)\n\nThis is impossible!\n\nThe prophecy must\n\nbe fulfilled!\n\n<81><80><86><09>"
+              "Value": "<89><86><08><c0><88><04>(SERGES)\n\nC't'impossible!\n\nLa prophétie doit\n\nêtre accompli!\n\n<81><80><86><09>",
+              "State": "Final"
             }
           ]
         },
