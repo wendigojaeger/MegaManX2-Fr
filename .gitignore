@@ -28,3 +28,5 @@ Tools/MegaManX2TextExtractor/obj/Debug/
 *.bst
 *.png
 /Tools/MegaManX2TextExtractor/
+
+*.ips
