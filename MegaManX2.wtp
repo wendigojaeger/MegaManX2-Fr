@@ -19,7 +19,7 @@
         "README.txt"
       ]
     },
-    "Version": "3.0",
+    "Version": "3.1",
     "Lang": {
       "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[WendigoJaeger.TranslationTool.Data.LocalizedProjectSettings, LibWendigoJaegerTranslationTool]], System.Private.CoreLib",
       "fr-FR": {
