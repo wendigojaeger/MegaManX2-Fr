@@ -11,9 +11,9 @@ Cette traduction a été conçu principalement pour développer mon nouvel outil
 
 Il s'agit de ma troisième itération sur la traduction française de ce jeu, la dernière datant d'il y a plus de 17 ans en 2004.
 
-============
-= Chagelog = 
-============
+=============
+= Changelog =
+=============
 Version 3.1
 * Fix du IPS non valide qui faisait crasher le menu d'options
 
